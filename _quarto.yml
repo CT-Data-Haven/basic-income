@@ -1,0 +1,10 @@
+project:
+  title: "Income Equity"
+
+format:
+  revealjs:
+    theme: 
+      - custom.scss
+
+
+

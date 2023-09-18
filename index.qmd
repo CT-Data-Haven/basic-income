@@ -1,0 +1,167 @@
+---
+title: "Income Equity"
+subtitle: "Bridgeport, Hartford, New Haven"
+author: "Camille Seaberry, DataHaven"
+format: 
+  revealjs:
+    theme: [custom.scss]
+    incremental: false
+    email-obfuscation: javascript
+footer: DataHaven
+---
+
+## Working with data {.smaller}
+
+| Pros                                                       | Cons                                                   |
+| ---------------------------------------------------------- | ------------------------------------------------------ |
+| Speaking the language of funders, politicians, etc         | Do funders & community use same language?              |
+| Assumed based on facts                                     | Facts depend on context & can be skewed                |
+| Can give background to lived experience & shared knowledge | Often treated as more important than lived experiences |
+| Valuable skills once you get them                          | High barrier                                           |
+| "Now what I've seen makes sense!"                              | "Tell me something I don't know!"                      |
+
+
+## What data can help answer
+
+* Who lives here?
+* Where are the resources?
+* What's the history of those resources?
+* Who / what _isn't_ measured? Why?
+
+## Demographics
+
+::::{.columns}
+
+:::{.column width=60%}
+
+![](./plots/dot_density.png)
+
+:::
+
+:::{.column width=40%}
+
+* You know what your neighborhood is like, but data helps to put it into context
+* How did we get here? One answer is **redlining.**
+  - Explore the project [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/#loc=12/41.767/-72.761&city=hartford-ct){preview-link="true"}
+
+:::
+
+::::
+
+## Homeownership
+
+::::{.columns}
+
+:::{.column width=40%}
+
+* Across the state, Black & Latino families are less likely to own their homes
+* Cities in Connecticut tend to have fewer single-family homes
+
+:::
+
+:::{.column width=60%}
+
+![](./plots/tenure_by_race.png)
+
+:::
+
+::::
+
+## Homeownership
+
+::::{.columns}
+
+:::{.column width=40%}
+
+* Benefits of homeownership: assets, stability, wealth to pass down
+* Households led by younger white adults are more likely to own their homes than older Latinos
+  - Head start on building wealth & stable futures
+
+:::
+
+:::{.column width=60%}
+
+![](./plots/tenure_by_race_x_age.png)
+
+:::
+
+::::
+
+## Wage gaps
+
+::::{.columns}
+
+:::{.column width=40%}
+
+* Usually we talk about the "wage gap" as women's pay vs men's pay
+* Statewide women working full time make about 81 cents to the average man's dollar
+
+:::
+
+:::{.column width=60%}
+
+![](./plots/wages_by_sex.png)
+
+:::
+
+::::
+
+## Wage gaps
+
+::::{.columns}
+
+:::{.column width=40%}
+
+Just looking at women vs men _completely misses other wage gaps_
+
+* White women on average make more money than Black or Latino men
+* Black women make about 64 cents to the average man's dollar
+* Latina women make about 54 cents to the average man's dollar
+
+:::
+
+:::{.column width=60%}
+
+![](./plots/wages_by_sex_x_race.png)
+
+:::
+
+::::
+
+## Education
+
+::::{.columns}
+
+:::{.column width=40%}
+
+* Two- or four-year degree can open up job opportunities
+* About a quarter of Latino adults have no high school diploma
+* Opportunity to support GED, vocational programs
+
+:::
+
+:::{.column width=60%}
+
+![](./plots/edu_by_race.png)
+
+:::
+
+::::
+
+## Resources
+
+:::{.incremental=false}
+
+### More from DataHaven
+
+* Main website: [https://www.ctdatahaven.org](https://www.ctdatahaven.org)
+* [Town equity reports](https://ctdatahaven.org/reports/connecticut-town-equity-reports)
+* [Councils of government equity reports](https://ctdatahaven.org/reports/connecticut-councils-governments-cog-regional-equity-reports)
+* [In-depth look at housing and redlining around New Haven](https://ctdatahaven.org/reports/ct-data-story-housing-segregation-greater-new-haven)
+
+### Contact
+
+* camille@ctdatahaven.org (Camille)
+* info@ctdatahaven.org (Mark Abraham, Executive Director)
+
+:::

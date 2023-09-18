@@ -1,0 +1,1261 @@
+indicator,level,name,sex,race_eth,median_earnings,median_earnings_se,median_earnings_low,median_earnings_upp
+total,state,Connecticut,total,total,66896,429.5904954826796,66316,68000
+total,region,Backus Hospital HSA,total,total,60000,1558.7375556182321,57474,63586
+total,region,Capitol Region COG,total,total,66316,594.3555506962217,65705,68035
+total,region,Charlotte Hungerford HSA,total,total,64105,765.1821150795604,63000,66000
+total,region,Connecticut Metro COG,total,total,64895,844.2556212722837,63586,66896
+total,region,Eastern Connecticut Health Network,total,total,63000,1047.2833874746498,60789,64895
+total,region,Fairfield County,total,total,76409,853.0093656213357,75158,78502
+total,region,Greater Bridgeport,total,total,64895,844.2556212722837,63586,66896
+total,region,Greater Danbury,total,total,70737,1288.9147690550778,69000,74053
+total,region,Greater Hartford,total,total,66316,594.3555506962217,65705,68035
+total,region,Greater New Haven,total,total,64738,696.3463138879546,63586,66316
+total,region,Greater Norwalk,total,total,99000,1907.9696838588332,94203,101684
+total,region,Greater Waterbury,total,total,63586,560.6201930521455,62802,65000
+total,region,Hartford County,total,total,65000,402.5247612445053,64738,66316
+total,region,Hartford Foundation,total,total,68884,544.0931657450158,68000,70133
+total,region,Hartford Hospital HSA,total,total,64738,696.3654549334666,63586,66316
+total,region,Health Improvement Collaborative of Southeastern Connecticut area,total,total,67825,1335.8851055301195,64895,70133
+total,region,Hospital of Central Connecticut HSA,total,total,61895,914.6604027883131,60000,63586
+total,region,Litchfield County,total,total,63000,969.5824639140824,60936,64738
+total,region,Lower Connecticut River Valley COG,total,total,70133,1409.6324084261437,68526,74053
+total,region,Lower Naugatuck Valley,total,total,72222,878.9361539556947,70737,74183
+total,region,MidState Medical Center HSA,total,total,62802,834.5348456676136,61466,64738
+total,region,Middlesex County,total,total,70133,1567.6795503061755,68035,74183
+total,region,Natchaug Hospital HSA,total,total,64000,671.0543500125478,62580,65211
+total,region,Naugatuck Valley COG,total,total,64895,696.3770314462868,63586,66316
+total,region,New Haven County,total,total,63586,533.8838322327994,62802,64895
+total,region,New London County,total,total,64738,993.6251185844494,63000,66896
+total,region,North Central DMHAS,total,total,65942,550.4873415665828,64738,66896
+total,region,Northeastern Connecticut COG,total,total,55263,1100.325701262045,53948,58264
+total,region,Northwest Hills COG,total,total,63000,834.522985348117,61466,64738
+total,region,QVHD,total,total,64738,896.1467977263601,62802,66316
+total,region,Sharon Hospital HSA,total,total,63000,969.5824639140824,60936,64738
+total,region,South Central DMHAS,total,total,65705,517.0584201041365,64738,66765
+total,region,South Central Regional COG,total,total,63586,560.6480578482506,62802,65000
+total,region,Southeastern Connecticut COG,total,total,63586,1032.2188643195723,61895,65942
+total,region,Southeastern DMHAS,total,total,63000,1007.2732550074696,60789,64738
+total,region,Southwestern DMHAS,total,total,77455,1140.9826082005525,75527,80000
+total,region,St. Vincent's Medical Center HSA,total,total,65705,787.407588332521,64738,67825
+total,region,Stamford Hospital HSA,total,total,84781,1651.462647565502,82000,88475
+total,region,Tolland County,total,total,71842,1599.660658638935,68884,75158
+total,region,Western Connecticut COG,total,total,82689,1219.5799173656028,80000,84781
+total,region,Western DMHAS,total,total,65211,517.0503503928412,64738,66765
+total,region,Windham County,total,total,55263,1100.325701262045,53948,58264
+total,region,Windham Hospital HSA,total,total,64000,671.0543500125478,62580,65211
+total,puma,0900100,total,total,72064,1664.3373993127666,69000,75527
+total,puma,0900101,total,total,121579,3333.795929356448,115136,128211
+total,puma,0900102,total,total,84781,1868.4650573874633,81642,88969
+total,puma,0900103,total,total,90080,2337.400005184082,86211,95378
+total,puma,0900104,total,total,44211,898.2778944519592,43105,46629
+total,puma,0900105,total,total,78502,1708.0298861378237,76197,82895
+total,puma,0900300,total,total,69944,1409.137240337946,66316,71842
+total,puma,0900301,total,total,55475,1334.2912071907124,53053,58287
+total,puma,0900302,total,total,41331,741.8972046690913,39600,42511
+total,puma,0900303,total,total,85000,1409.1842309521578,82895,88421
+total,puma,0900304,total,total,64105,1781.8063378316017,61895,68884
+total,puma,0900305,total,total,52988,953.0581606279849,51288,55027
+total,puma,0900306,total,total,83736,1517.9908291322201,80922,86876
+total,puma,0900500,total,total,63000,969.5824639140824,60936,64738
+total,puma,0900700,total,total,70133,1567.6795503061755,68035,74183
+total,puma,0900900,total,total,74183,1947.763950024852,71842,79482
+total,puma,0900901,total,total,50000,1648.4562972759284,47689,54158
+total,puma,0900902,total,total,60000,1358.3881399436552,57474,62802
+total,puma,0900903,total,total,66316,1341.376054604999,64738,70000
+total,puma,0900904,total,total,69632,1690.586427193303,66316,72947
+total,puma,0900905,total,total,51288,1516.1288568483014,48000,53948
+total,puma,0900906,total,total,72290,1409.0041466425175,70000,75527
+total,puma,0901100,total,total,60789,1828.0660133244348,57568,64738
+total,puma,0901101,total,total,68884,1408.9884227548687,66316,71842
+total,puma,0901300,total,total,71842,1599.660658638935,68884,75158
+total,puma,0901500,total,total,55263,1100.325701262045,53948,58264
+by_sex,state,Connecticut,male,total,74183,550.4991458525542,73369,75527
+by_sex,state,Connecticut,female,total,60406,281.87919545197093,59684,60789
+by_sex,region,Backus Hospital HSA,male,total,68884,2026.2541076990594,65000,72947
+by_sex,region,Backus Hospital HSA,female,total,51288,855.5286355591949,49632,52988
+by_sex,region,Capitol Region COG,male,total,73269,805.5209555280919,71842,75000
+by_sex,region,Capitol Region COG,female,total,60000,650.9271661714724,59343,61895
+by_sex,region,Charlotte Hungerford HSA,male,total,71842,1919.5794597240656,68000,75527
+by_sex,region,Charlotte Hungerford HSA,female,total,58000,1247.4596311364799,55108,60000
+by_sex,region,Connecticut Metro COG,male,total,71004,2214.657001472399,66316,75000
+by_sex,region,Connecticut Metro COG,female,total,59684,1691.957899627834,56167,62802
+by_sex,region,Eastern Connecticut Health Network,male,total,66765,1537.2910903191282,64105,70133
+by_sex,region,Eastern Connecticut Health Network,female,total,58264,1315.5779179649182,55263,60422
+by_sex,region,Fairfield County,male,total,85000,1195.0099618851063,83736,88421
+by_sex,region,Fairfield County,female,total,67975,1095.4801227922162,65705,70000
+by_sex,region,Greater Bridgeport,male,total,71004,2214.657001472399,66316,75000
+by_sex,region,Greater Bridgeport,female,total,59684,1691.957899627834,56167,62802
+by_sex,region,Greater Danbury,male,total,78502,1559.680440745718,75527,81642
+by_sex,region,Greater Danbury,female,total,64000,952.839804657903,62580,66316
+by_sex,region,Greater Hartford,male,total,73269,805.5209555280919,71842,75000
+by_sex,region,Greater Hartford,female,total,60000,650.9271661714724,59343,61895
+by_sex,region,Greater New Haven,male,total,70133,1334.884104625767,68035,73269
+by_sex,region,Greater New Haven,female,total,59343,1088.2249112167594,56522,60789
+by_sex,region,Greater Norwalk,male,total,117000,4244.43862914641,110526,127171
+by_sex,region,Greater Norwalk,female,total,79000,2435.5133448865654,74183,83736
+by_sex,region,Greater Waterbury,male,total,68035,1744.8608046307493,65000,71842
+by_sex,region,Greater Waterbury,female,total,57474,1274.9926998779613,55000,60000
+by_sex,region,Hartford County,male,total,72064,1033.024872461621,70133,74183
+by_sex,region,Hartford County,female,total,59343,711.36078775034,58000,60789
+by_sex,region,Hartford Foundation,male,total,75527,973.5821622977029,74183,78000
+by_sex,region,Hartford Foundation,female,total,61466,914.6266978224278,60000,63586
+by_sex,region,Hartford Hospital HSA,male,total,71175,1118.4214429525794,68884,73269
+by_sex,region,Hartford Hospital HSA,female,total,58287,1081.135226467274,56167,60406
+by_sex,region,Health Improvement Collaborative of Southeastern Connecticut area,male,total,75000,1409.0690333542366,71842,77368
+by_sex,region,Health Improvement Collaborative of Southeastern Connecticut area,female,total,56106,2155.2388226465837,52335,60789
+by_sex,region,Hospital of Central Connecticut HSA,male,total,66896,1568.9468712579962,63848,70000
+by_sex,region,Hospital of Central Connecticut HSA,female,total,56167,1362.523538271168,54000,59343
+by_sex,region,Litchfield County,male,total,68884,2133.703872662304,65000,73369
+by_sex,region,Litchfield County,female,total,55475,1375.1968882258052,53948,59343
+by_sex,region,Lower Connecticut River Valley COG,male,total,75000,1851.3013255098967,72222,79482
+by_sex,region,Lower Connecticut River Valley COG,female,total,64738,1868.0814182295903,61755,69082
+by_sex,region,Lower Naugatuck Valley,male,total,80922,1334.7816852583626,78502,83736
+by_sex,region,Lower Naugatuck Valley,female,total,65942,1125.5815880047107,63586,68000
+by_sex,region,MidState Medical Center HSA,male,total,68884,1846.776191269224,65705,72947
+by_sex,region,MidState Medical Center HSA,female,total,56522,1274.9464042965628,55000,60000
+by_sex,region,Middlesex County,male,total,75000,1907.9372084162476,72064,79549
+by_sex,region,Middlesex County,female,total,65000,2065.452487981139,61895,70000
+by_sex,region,Natchaug Hospital HSA,male,total,69054,1449.5279089272315,66316,72000
+by_sex,region,Natchaug Hospital HSA,female,total,56106,1253.279042778364,54428,59343
+by_sex,region,Naugatuck Valley COG,male,total,70133,1118.4558895821722,68884,73269
+by_sex,region,Naugatuck Valley COG,female,total,60000,1066.89122529679,58264,62447
+by_sex,region,New Haven County,male,total,68884,1124.805387005326,66765,71175
+by_sex,region,New Haven County,female,total,57568,926.3445121881006,56368,60000
+by_sex,region,New London County,male,total,72290,1334.3572659324502,70129,75362
+by_sex,region,New London County,female,total,52988,1449.062865853227,51790,57474
+by_sex,region,North Central DMHAS,male,total,73018,767.2781415879674,71175,74183
+by_sex,region,North Central DMHAS,female,total,59684,638.1911961432672,58287,60789
+by_sex,region,Northeastern Connecticut COG,male,total,60789,1826.9967241728525,57568,64738
+by_sex,region,Northeastern Connecticut COG,female,total,49737,1785.3974257137031,45979,52988
+by_sex,region,Northwest Hills COG,male,total,69632,1925.8009767078916,65817,73369
+by_sex,region,Northwest Hills COG,female,total,55816,1375.5997009862435,53948,59343
+by_sex,region,QVHD,male,total,72000,1918.9715373107108,68000,75527
+by_sex,region,QVHD,female,total,59000,1797.496901707486,55475,62526
+by_sex,region,Sharon Hospital HSA,male,total,68884,2133.703872662304,65000,73369
+by_sex,region,Sharon Hospital HSA,female,total,55475,1375.1968882258052,53948,59343
+by_sex,region,South Central DMHAS,male,total,71842,1020.2706727994613,70000,74000
+by_sex,region,South Central DMHAS,female,total,60000,836.5983890176342,58615,61895
+by_sex,region,South Central Regional COG,male,total,68884,1362.4285225278652,66500,71842
+by_sex,region,South Central Regional COG,female,total,57474,1020.131156519109,56000,60000
+by_sex,region,Southeastern Connecticut COG,male,total,71842,1275.1127447649621,70000,75000
+by_sex,region,Southeastern Connecticut COG,female,total,52988,1171.4230043928083,51928,56522
+by_sex,region,Southeastern DMHAS,male,total,70000,970.9520539594881,68035,71842
+by_sex,region,Southeastern DMHAS,female,total,52988,832.133388906247,52000,55263
+by_sex,region,Southwestern DMHAS,male,total,88421,1711.9883179460587,85000,91712
+by_sex,region,Southwestern DMHAS,female,total,68000,1128.3384514705972,65705,70129
+by_sex,region,St. Vincent's Medical Center HSA,male,total,71842,1616.2181145544243,68663,75000
+by_sex,region,St. Vincent's Medical Center HSA,female,total,60000,1358.791209625244,57474,62802
+by_sex,region,Stamford Hospital HSA,male,total,94203,2813.052371676779,88969,100000
+by_sex,region,Stamford Hospital HSA,female,total,74315,2231.798636950132,71842,80595
+by_sex,region,Tolland County,male,total,77685,2220.3274565067386,74183,82895
+by_sex,region,Tolland County,female,total,64738,2263.50782927625,60000,68884
+by_sex,region,Western Connecticut COG,male,total,91712,1634.7811310326501,88969,95378
+by_sex,region,Western Connecticut COG,female,total,71004,1160.7980936488643,69632,74183
+by_sex,region,Western DMHAS,male,total,71842,1066.9249070033563,70000,74183
+by_sex,region,Western DMHAS,female,total,60000,1094.925418212975,58287,62580
+by_sex,region,Windham County,male,total,60789,1826.9967241728525,57568,64738
+by_sex,region,Windham County,female,total,49737,1785.3974257137031,45979,52988
+by_sex,region,Windham Hospital HSA,male,total,69054,1449.5279089272315,66316,72000
+by_sex,region,Windham Hospital HSA,female,total,56106,1253.279042778364,54428,59343
+by_sex,puma,0900100,male,total,79482,2226.892100512509,75000,83736
+by_sex,puma,0900100,female,total,65000,1834.3069571773294,62802,70000
+by_sex,puma,0900101,male,total,149211,5303.165140197613,138158,158964
+by_sex,puma,0900101,female,total,95378,4125.87339246161,88475,104669
+by_sex,puma,0900102,male,total,92791,3763.451972753327,85238,100000
+by_sex,puma,0900102,female,total,74315,2484.2943290429525,71175,80922
+by_sex,puma,0900103,male,total,105716,4001.792766781735,99436,115136
+by_sex,puma,0900103,female,total,71004,3440.277919878745,65000,78502
+by_sex,puma,0900104,male,total,45845,1577.9212448608544,43542,49737
+by_sex,puma,0900104,female,total,42390,1795.0434900930738,39347,46395
+by_sex,puma,0900105,male,total,86900,2294.3335562661996,83000,92000
+by_sex,puma,0900105,female,total,69054,1374.816548277393,66896,72290
+by_sex,puma,0900300,male,total,75362,1206.0054231399959,73269,78000
+by_sex,puma,0900300,female,total,61466,1816.214784919267,58579,65705
+by_sex,puma,0900301,male,total,57474,2255.7434448441345,53948,62802
+by_sex,puma,0900301,female,total,53948,2043.6363329867597,50241,58264
+by_sex,puma,0900302,male,total,42914,1079.2931762493054,41331,45570
+by_sex,puma,0900302,female,total,37764,1869.129225552249,34527,41868
+by_sex,puma,0900303,male,total,95378,2112.9060098564178,91712,100000
+by_sex,puma,0900303,female,total,73269,1958.776976207438,70000,77685
+by_sex,puma,0900304,male,total,70133,2304.996821487635,66316,75362
+by_sex,puma,0900304,female,total,60000,1732.8107735618978,56000,62802
+by_sex,puma,0900305,male,total,55108,1602.1875802969137,53053,59343
+by_sex,puma,0900305,female,total,47600,2028.763797368277,43961,51928
+by_sex,puma,0900306,male,total,88969,2280.0293110872717,85000,93947
+by_sex,puma,0900306,female,total,75000,2641.237091197084,69632,80000
+by_sex,puma,0900500,male,total,68884,2133.703872662304,65000,73369
+by_sex,puma,0900500,female,total,55475,1375.1968882258052,53948,59343
+by_sex,puma,0900700,male,total,75000,1907.9372084162476,72064,79549
+by_sex,puma,0900700,female,total,65000,2065.452487981139,61895,70000
+by_sex,puma,0900900,male,total,81789,2722.4540184688203,75527,86211
+by_sex,puma,0900900,female,total,69054,1660.082596933716,65705,72222
+by_sex,puma,0900901,male,total,54048,1969.5697377111294,49737,57474
+by_sex,puma,0900901,female,total,46629,2290.372382937889,41001,50000
+by_sex,puma,0900902,male,total,64738,1796.9681245206846,62580,69632
+by_sex,puma,0900902,female,total,53948,1412.9982607504069,51928,57474
+by_sex,puma,0900903,male,total,74183,2547.4089374003406,70000,80000
+by_sex,puma,0900903,female,total,60789,1947.2915740259732,57000,64645
+by_sex,puma,0900904,male,total,75000,2688.6367972196854,70133,80684
+by_sex,puma,0900904,female,total,63000,2292.8933537753187,60000,69000
+by_sex,puma,0900905,male,total,52335,1923.6525200505946,48553,56106
+by_sex,puma,0900905,female,total,50000,2278.1822121226874,46055,55000
+by_sex,puma,0900906,male,total,80000,2357.7625760265378,75527,84781
+by_sex,puma,0900906,female,total,63586,2366.8788241447055,60708,70000
+by_sex,puma,0901100,male,total,70129,2004.9465631932098,66316,74183
+by_sex,puma,0901100,female,total,51790,831.2696685335463,49737,53000
+by_sex,puma,0901101,male,total,75527,1583.3460667589895,72290,78502
+by_sex,puma,0901101,female,total,57568,2550.836384174734,52988,63000
+by_sex,puma,0901300,male,total,77685,2220.3274565067386,74183,82895
+by_sex,puma,0901300,female,total,64738,2263.50782927625,60000,68884
+by_sex,puma,0901500,male,total,60789,1826.9967241728525,57568,64738
+by_sex,puma,0901500,female,total,49737,1785.3974257137031,45979,52988
+by_race,state,Connecticut,total,white,75000,342.8536774430807,74183,75527
+by_race,state,Connecticut,total,black,49718,847.1919674317779,47520,50842
+by_race,state,Connecticut,total,latino,43961,550.4049385526374,43158,45316
+by_race,state,Connecticut,total,api,83736,1912.238574201445,80922,88421
+by_race,state,Connecticut,total,other_race,62000,1764.8275360885004,58287,65211
+by_race,region,Backus Hospital HSA,total,white,65211,1259.78045321074,63586,68526
+by_race,region,Backus Hospital HSA,total,black,44171,4637.720876940716,34484,52988
+by_race,region,Backus Hospital HSA,total,latino,43158,1996.9628743083836,41868,49737
+by_race,region,Backus Hospital HSA,total,api,42705,1790.0761130072478,38684,45782
+by_race,region,Backus Hospital HSA,total,other_race,60000,7763.782889860862,50241,80922
+by_race,region,Capitol Region COG,total,white,75000,496.6433531689262,74053,76000
+by_race,region,Capitol Region COG,total,black,47689,1728.5769101287608,45008,51790
+by_race,region,Capitol Region COG,total,latino,41868,884.0975432336178,40232,43700
+by_race,region,Capitol Region COG,total,api,84000,2548.086918309922,80000,90000
+by_race,region,Capitol Region COG,total,other_race,62580,4312.963242682117,55263,72222
+by_race,region,Charlotte Hungerford HSA,total,white,64895,867.6856457091039,63586,66988
+by_race,region,Charlotte Hungerford HSA,total,black,58615,4156.4446414350205,48632,65000
+by_race,region,Charlotte Hungerford HSA,total,latino,52988,3350.5570517035376,45400,58579
+by_race,region,Charlotte Hungerford HSA,total,api,80542,11772.96254397482,63586,109903
+by_race,region,Charlotte Hungerford HSA,total,other_race,66988,7204.6584307947915,55263,83736
+by_race,region,Connecticut Metro COG,total,white,86876,1331.0669201722985,84781,90000
+by_race,region,Connecticut Metro COG,total,black,47000,1882.3286864202903,44211,51602
+by_race,region,Connecticut Metro COG,total,latino,42390,1546.704300415382,39774,45845
+by_race,region,Connecticut Metro COG,total,api,83736,9157.775057996147,69944,105976
+by_race,region,Connecticut Metro COG,total,other_race,52988,5769.37919427807,40000,62802
+by_race,region,Eastern Connecticut Health Network,total,white,68884,1239.2782535197769,66316,71175
+by_race,region,Eastern Connecticut Health Network,total,black,46421,2514.862588730724,43105,52988
+by_race,region,Eastern Connecticut Health Network,total,latino,43857,2241.809806415551,41001,49809
+by_race,region,Eastern Connecticut Health Network,total,api,82000,3279.776195793012,75527,88421
+by_race,region,Eastern Connecticut Health Network,total,other_race,60185,8760.331794256592,46421,81000
+by_race,region,Fairfield County,total,white,93947,935.1176739120045,91712,95378
+by_race,region,Fairfield County,total,black,51284,1809.0663285308722,47101,54200
+by_race,region,Fairfield County,total,latino,45316,1234.4616517735562,43158,48000
+by_race,region,Fairfield County,total,api,104669,3859.2617616722555,95378,110526
+by_race,region,Fairfield County,total,other_race,61755,3813.5181558200975,55000,70000
+by_race,region,Greater Bridgeport,total,white,86876,1331.0669201722985,84781,90000
+by_race,region,Greater Bridgeport,total,black,47000,1882.3286864202903,44211,51602
+by_race,region,Greater Bridgeport,total,latino,42390,1546.704300415382,39774,45845
+by_race,region,Greater Bridgeport,total,api,83736,9157.775057996147,69944,105976
+by_race,region,Greater Bridgeport,total,other_race,52988,5769.37919427807,40000,62802
+by_race,region,Greater Danbury,total,white,77363,1143.2408339033755,75000,79482
+by_race,region,Greater Danbury,total,black,55263,5780.5976584439995,46892,69632
+by_race,region,Greater Danbury,total,latino,47526,2580.96311138048,41868,52000
+by_race,region,Greater Danbury,total,api,80000,8301.678907432935,68035,100677
+by_race,region,Greater Danbury,total,other_race,54711,4390.3237673827725,47700,65000
+by_race,region,Greater Hartford,total,white,75000,496.6433531689262,74053,76000
+by_race,region,Greater Hartford,total,black,47689,1728.5769101287608,45008,51790
+by_race,region,Greater Hartford,total,latino,41868,884.0975432336178,40232,43700
+by_race,region,Greater Hartford,total,api,84000,2548.086918309922,80000,90000
+by_race,region,Greater Hartford,total,other_race,62580,4312.963242682117,55263,72222
+by_race,region,Greater New Haven,total,white,72395,946.0112679239526,70474,74183
+by_race,region,Greater New Haven,total,black,49737,2182.685688099894,44300,52869
+by_race,region,Greater New Haven,total,latino,44211,1703.3285007884847,41868,48553
+by_race,region,Greater New Haven,total,api,82661,6836.883710132506,70133,97000
+by_race,region,Greater New Haven,total,other_race,63586,4035.0580440005756,55263,71175
+by_race,region,Greater Norwalk,total,white,117230,3845.011270905464,110526,125603
+by_race,region,Greater Norwalk,total,black,53000,4948.050465813236,46421,65942
+by_race,region,Greater Norwalk,total,latino,50711,2571.0621345311415,45000,55108
+by_race,region,Greater Norwalk,total,api,117000,6885.655600079322,107896,135000
+by_race,region,Greater Norwalk,total,other_race,97107,14268.498942873985,69000,125603
+by_race,region,Greater Waterbury,total,white,68526,973.5232343650766,66316,70133
+by_race,region,Greater Waterbury,total,black,45979,2525.3615702714105,42390,52335
+by_race,region,Greater Waterbury,total,latino,45000,1772.448367660641,42000,48963
+by_race,region,Greater Waterbury,total,api,74183,4895.236750240063,69082,88421
+by_race,region,Greater Waterbury,total,other_race,63659,6210.880992426551,53948,78502
+by_race,region,Hartford County,total,white,74183,575.9627062689685,73269,75527
+by_race,region,Hartford County,total,black,48553,1428.5388720407627,46395,52000
+by_race,region,Hartford County,total,latino,41868,884.067777635133,40232,43700
+by_race,region,Hartford County,total,api,83721,2430.14664033164,79482,89020
+by_race,region,Hartford County,total,other_race,62802,4534.505207432784,55108,72947
+by_race,region,Hartford Foundation,total,white,77368,825.6760833963116,75527,78764
+by_race,region,Hartford Foundation,total,black,49195,1814.5078263785992,45868,52988
+by_race,region,Hartford Foundation,total,latino,42390,818.3826961966411,41000,44211
+by_race,region,Hartford Foundation,total,api,87000,3043.767858072034,82000,93947
+by_race,region,Hartford Foundation,total,other_race,63586,4564.347941605726,57568,75527
+by_race,region,Hartford Hospital HSA,total,white,75527,973.5878349109171,74183,78000
+by_race,region,Hartford Hospital HSA,total,black,47206,1507.6076630537762,44211,50127
+by_race,region,Hartford Hospital HSA,total,latino,41001,1128.99701508893,38728,43158
+by_race,region,Hartford Hospital HSA,total,api,85829,2831.983223112637,80595,91712
+by_race,region,Hartford Hospital HSA,total,other_race,62802,5341.862374974854,52335,73369
+by_race,region,Health Improvement Collaborative of Southeastern Connecticut area,total,white,70129,1306.2238437640585,67825,72947
+by_race,region,Health Improvement Collaborative of Southeastern Connecticut area,total,black,46800,6150.056853770197,44211,68526
+by_race,region,Health Improvement Collaborative of Southeastern Connecticut area,total,latino,44211,2473.425846204566,40000,49737
+by_race,region,Health Improvement Collaborative of Southeastern Connecticut area,total,api,86900,6191.641593068027,75000,99436
+by_race,region,Health Improvement Collaborative of Southeastern Connecticut area,total,other_race,68526,6343.150458453076,52335,77368
+by_race,region,Hospital of Central Connecticut HSA,total,white,69000,1409.4276621471283,66316,71842
+by_race,region,Hospital of Central Connecticut HSA,total,black,47689,2609.3935306256267,43547,53826
+by_race,region,Hospital of Central Connecticut HSA,total,latino,41337,1176.022371286496,39382,44000
+by_race,region,Hospital of Central Connecticut HSA,total,api,65000,4930.996729592293,58287,77685
+by_race,region,Hospital of Central Connecticut HSA,total,other_race,57000,5633.2290093530855,51000,73269
+by_race,region,Litchfield County,total,white,63586,740.2930471836197,62802,65705
+by_race,region,Litchfield County,total,black,58615,8185.560657832738,47101,80000
+by_race,region,Litchfield County,total,latino,52988,4929.262885036271,42000,61466
+by_race,region,Litchfield County,total,api,70129,15768.09626895317,53948,117230
+by_race,region,Litchfield County,total,other_race,65000,7137.827968347065,55263,83721
+by_race,region,Lower Connecticut River Valley COG,total,white,74183,1315.4645282748784,71842,77000
+by_race,region,Lower Connecticut River Valley COG,total,black,46395,4582.42780967266,38000,56106
+by_race,region,Lower Connecticut River Valley COG,total,latino,53948,5614.495705943268,44211,66316
+by_race,region,Lower Connecticut River Valley COG,total,api,73164,8675.826188987785,58579,92842
+by_race,region,Lower Connecticut River Valley COG,total,other_race,57568,7118.002963035631,42000,70129
+by_race,region,Lower Naugatuck Valley,total,white,77368,1275.2394065907674,75000,80000
+by_race,region,Lower Naugatuck Valley,total,black,57474,3055.1391083372273,52988,65000
+by_race,region,Lower Naugatuck Valley,total,latino,55108,3102.0039570654753,51398,63586
+by_race,region,Lower Naugatuck Valley,total,api,79843,7226.8809685284195,72222,100677
+by_race,region,Lower Naugatuck Valley,total,other_race,64105,7561.588082273752,52988,82895
+by_race,region,MidState Medical Center HSA,total,white,69054,1261.4371774666351,66896,71842
+by_race,region,MidState Medical Center HSA,total,black,49295,2059.2163303246107,44211,52335
+by_race,region,MidState Medical Center HSA,total,latino,47101,1469.8936524626583,43961,49737
+by_race,region,MidState Medical Center HSA,total,api,64895,8765.425189814021,49600,84159
+by_race,region,MidState Medical Center HSA,total,other_race,53948,3108.969521130669,51288,63586
+by_race,region,Middlesex County,total,white,74607,1408.98779525407,71842,77368
+by_race,region,Middlesex County,total,black,46395,4535.552159259783,38000,56106
+by_race,region,Middlesex County,total,latino,53948,5709.810931472708,43698,66316
+by_race,region,Middlesex County,total,api,73164,10019.74764267271,53948,93947
+by_race,region,Middlesex County,total,other_race,57568,8542.697438121948,41868,76000
+by_race,region,Natchaug Hospital HSA,total,white,65942,831.9703058392931,64738,68000
+by_race,region,Natchaug Hospital HSA,total,black,41447,6688.891949883743,33912,60406
+by_race,region,Natchaug Hospital HSA,total,latino,43158,2404.9945583372323,38684,48148
+by_race,region,Natchaug Hospital HSA,total,api,76303,7972.96485340255,58615,90080
+by_race,region,Natchaug Hospital HSA,total,other_race,60185,7103.6556411057845,52988,81000
+by_race,region,Naugatuck Valley COG,total,white,70133,581.066951723319,69944,72222
+by_race,region,Naugatuck Valley COG,total,black,50842,2039.7463327818627,46418,54428
+by_race,region,Naugatuck Valley COG,total,latino,47101,1964.9615618487244,43158,50869
+by_race,region,Naugatuck Valley COG,total,api,72222,3146.1231432417353,69632,82001
+by_race,region,Naugatuck Valley COG,total,other_race,62802,5439.493155540698,53948,75362
+by_race,region,New Haven County,total,white,71842,799.9017651617643,70133,73269
+by_race,region,New Haven County,total,black,49737,1619.5152816086288,45979,52335
+by_race,region,New Haven County,total,latino,45000,1198.2162169847077,42400,47101
+by_race,region,New Haven County,total,api,77368,3730.1560433907325,70129,84781
+by_race,region,New Haven County,total,other_race,62802,3742.9019691275093,55263,70000
+by_race,region,New London County,total,white,68884,1239.1529982135025,66316,71175
+by_race,region,New London County,total,black,45316,2516.173784960145,44000,53948
+by_race,region,New London County,total,latino,43158,1724.8188862821198,41763,48553
+by_race,region,New London County,total,api,59343,7399.260018037835,47101,76303
+by_race,region,New London County,total,other_race,65000,6176.41882414388,52988,77363
+by_race,region,North Central DMHAS,total,white,74183,575.9855426302154,73269,75527
+by_race,region,North Central DMHAS,total,black,48000,1587.4262070582342,45700,51928
+by_race,region,North Central DMHAS,total,latino,41868,853.8118864102569,40193,43542
+by_race,region,North Central DMHAS,total,api,83080,2417.507665624083,79482,88969
+by_race,region,North Central DMHAS,total,other_race,62526,3783.542156786814,55263,70133
+by_race,region,Northeastern Connecticut COG,total,white,58264,1388.0457737819347,55263,60708
+by_race,region,Northeastern Connecticut COG,total,black,44171,18873.58080513992,36032,118276
+by_race,region,Northeastern Connecticut COG,total,latino,38000,3568.431871668223,34000,48148
+by_race,region,Northeastern Connecticut COG,total,api,74183,15428.138054918172,30211,94203
+by_race,region,Northeastern Connecticut COG,total,other_race,70000,9281.978204833438,57000,94203
+by_race,region,Northwest Hills COG,total,white,63848,768.9534839609156,62802,65817
+by_race,region,Northwest Hills COG,total,black,57568,4843.7221911793295,47101,66316
+by_race,region,Northwest Hills COG,total,latino,51947,3954.576911940728,42000,57568
+by_race,region,Northwest Hills COG,total,api,69632,14131.249270984697,53948,110000
+by_race,region,Northwest Hills COG,total,other_race,64738,6477.497510419057,55263,80922
+by_race,region,QVHD,total,white,70133,1369.039838366019,68000,73369
+by_race,region,QVHD,total,black,53381,2928.13114103137,51000,62526
+by_race,region,QVHD,total,latino,47101,2157.0592151627743,42390,50869
+by_race,region,QVHD,total,api,70129,7118.734074375954,61895,90000
+by_race,region,QVHD,total,other_race,63000,6463.369849456484,53826,79482
+by_race,region,Sharon Hospital HSA,total,white,63586,740.2930471836197,62802,65705
+by_race,region,Sharon Hospital HSA,total,black,58615,8185.560657832738,47101,80000
+by_race,region,Sharon Hospital HSA,total,latino,52988,4929.262885036271,42000,61466
+by_race,region,Sharon Hospital HSA,total,api,70129,15768.09626895317,53948,117230
+by_race,region,Sharon Hospital HSA,total,other_race,65000,7137.827968347065,55263,83721
+by_race,region,South Central DMHAS,total,white,73000,597.1402028783294,71842,74183
+by_race,region,South Central DMHAS,total,black,50000,1404.9974909128193,47474,52988
+by_race,region,South Central DMHAS,total,latino,47101,1408.4833689302097,44211,49737
+by_race,region,South Central DMHAS,total,api,77368,4122.284783212554,70129,86317
+by_race,region,South Central DMHAS,total,other_race,58615,3093.774581270596,53826,66000
+by_race,region,South Central Regional COG,total,white,71842,800.8830901270453,70129,73269
+by_race,region,South Central Regional COG,total,black,49737,1993.1748756426268,44510,52335
+by_race,region,South Central Regional COG,total,latino,45782,1377.186319635267,42390,47795
+by_race,region,South Central Regional COG,total,api,78764,4971.608182709598,68884,88421
+by_race,region,South Central Regional COG,total,other_race,62000,3816.974213065401,53948,69000
+by_race,region,Southeastern Connecticut COG,total,white,67421,1095.43407154743,65705,70000
+by_race,region,Southeastern Connecticut COG,total,black,45316,2517.9874475254096,44000,53948
+by_race,region,Southeastern Connecticut COG,total,latino,43158,1597.1364544507426,41868,48148
+by_race,region,Southeastern Connecticut COG,total,api,58287,7500.846756326588,45782,75362
+by_race,region,Southeastern Connecticut COG,total,other_race,65000,6186.33828634252,52988,77363
+by_race,region,Southeastern DMHAS,total,white,65942,576.9553084993566,64738,67000
+by_race,region,Southeastern DMHAS,total,black,45008,2279.229619122497,44000,52988
+by_race,region,Southeastern DMHAS,total,latino,43158,1507.902342591111,41763,47689
+by_race,region,Southeastern DMHAS,total,api,66316,6815.516059775226,50621,77455
+by_race,region,Southeastern DMHAS,total,other_race,65000,5480.19567728942,54428,76000
+by_race,region,Southwestern DMHAS,total,white,99474,1100.6346615170487,97107,101422
+by_race,region,Southwestern DMHAS,total,black,50000,1864.9615303443766,46629,53948
+by_race,region,Southwestern DMHAS,total,latino,45000,1113.4887960472413,43158,47526
+by_race,region,Southwestern DMHAS,total,api,110526,4745.91253265606,101737,120370
+by_race,region,Southwestern DMHAS,total,other_race,65000,5295.21221258996,56522,77368
+by_race,region,St. Vincent's Medical Center HSA,total,white,84781,1103.1266924969543,82895,87220
+by_race,region,St. Vincent's Medical Center HSA,total,black,47101,1860.0827313931866,44300,51602
+by_race,region,St. Vincent's Medical Center HSA,total,latino,43000,1420.3859474292053,40271,45845
+by_race,region,St. Vincent's Medical Center HSA,total,api,83736,6532.951352965722,75000,100677
+by_race,region,St. Vincent's Medical Center HSA,total,other_race,52988,5303.260575165497,41868,62802
+by_race,region,Stamford Hospital HSA,total,white,103895,1658.2046631102367,99474,105976
+by_race,region,Stamford Hospital HSA,total,black,60000,4522.053105301505,49195,66988
+by_race,region,Stamford Hospital HSA,total,latino,45316,2238.435869004176,42080,50869
+by_race,region,Stamford Hospital HSA,total,api,115136,5712.735740301259,107896,130351
+by_race,region,Stamford Hospital HSA,total,other_race,79482,10239.779675833284,65211,105716
+by_race,region,Tolland County,total,white,74183,1578.893840075089,71175,77368
+by_race,region,Tolland County,total,black,40821,9976.684300496245,33912,74053
+by_race,region,Tolland County,total,latino,53053,5885.993318050306,42390,65817
+by_race,region,Tolland County,total,api,80922,8072.013647695091,67825,100000
+by_race,region,Tolland County,total,other_race,58615,12464.190410131181,40000,90000
+by_race,region,Western Connecticut COG,total,white,94203,1100.9438742333452,92791,97107
+by_race,region,Western Connecticut COG,total,black,55263,3259.8507671166194,50000,62802
+by_race,region,Western Connecticut COG,total,latino,47000,1523.8583042606074,44022,50000
+by_race,region,Western Connecticut COG,total,api,107896,3888.5491471552787,101737,117000
+by_race,region,Western Connecticut COG,total,other_race,68035,6517.506505003306,56368,82000
+by_race,region,Western DMHAS,total,white,71175,796.8564357738269,70000,73124
+by_race,region,Western DMHAS,total,black,49093,2611.9712967119967,45000,55263
+by_race,region,Western DMHAS,total,latino,46000,1786.3690642876684,42390,49400
+by_race,region,Western DMHAS,total,api,77368,4700.308887915727,69944,88421
+by_race,region,Western DMHAS,total,other_race,58000,3902.370222936021,53516,68884
+by_race,region,Windham County,total,white,58264,1388.0457737819347,55263,60708
+by_race,region,Windham County,total,black,44171,18873.58080513992,36032,118276
+by_race,region,Windham County,total,latino,38000,3568.431871668223,34000,48148
+by_race,region,Windham County,total,api,74183,15428.138054918172,30211,94203
+by_race,region,Windham County,total,other_race,70000,9281.978204833438,57000,94203
+by_race,region,Windham Hospital HSA,total,white,65942,831.9703058392931,64738,68000
+by_race,region,Windham Hospital HSA,total,black,41447,6688.891949883743,33912,60406
+by_race,region,Windham Hospital HSA,total,latino,43158,2404.9945583372323,38684,48148
+by_race,region,Windham Hospital HSA,total,api,76303,7972.96485340255,58615,90080
+by_race,region,Windham Hospital HSA,total,other_race,60185,7103.6556411057845,52988,81000
+by_race,puma,0900100,total,white,80922,1945.84971823471,77368,85000
+by_race,puma,0900100,total,black,52335,8527.837279108471,44100,78000
+by_race,puma,0900100,total,latino,43158,2741.3527490400807,39211,50000
+by_race,puma,0900100,total,api,78502,10037.635489453116,65000,104669
+by_race,puma,0900100,total,other_race,53948,5475.730438199409,43158,65000
+by_race,puma,0900101,total,white,125603,4394.613553074581,117633,134870
+by_race,puma,0900101,total,black,73124,23277.464784924818,43158,137769
+by_race,puma,0900101,total,latino,67000,8647.117824780724,59684,93947
+by_race,puma,0900101,total,api,143684,8161.738762016972,133530,165789
+by_race,puma,0900101,total,other_race,76000,27014.03814665401,37579,146537
+by_race,puma,0900102,total,white,101684,2161.6288098839473,97498,105976
+by_race,puma,0900102,total,black,60708,4928.908043427056,47526,66988
+by_race,puma,0900102,total,latino,45000,2289.8121568290317,41868,50869
+by_race,puma,0900102,total,api,117000,6853.301866924059,107896,134870
+by_race,puma,0900102,total,other_race,77368,10124.480795063337,59662,100000
+by_race,puma,0900103,total,white,112000,4322.640121705189,105976,122932
+by_race,puma,0900103,total,black,52988,5258.700479963975,43961,64738
+by_race,puma,0900103,total,latino,48553,2595.8752898041353,44211,54428
+by_race,puma,0900103,total,api,110000,9825.252520519041,79843,118686
+by_race,puma,0900103,total,other_race,105716,17706.794430651204,69000,139888
+by_race,puma,0900104,total,white,54048,3991.0030037985134,47101,62802
+by_race,puma,0900104,total,black,46395,1674.4779664383586,43158,49737
+by_race,puma,0900104,total,latino,37092,1876.6861906317513,33448,40821
+by_race,puma,0900104,total,api,48553,7009.898342907985,46892,75000
+by_race,puma,0900104,total,other_race,47526,6939.2559112890385,35000,62802
+by_race,puma,0900105,total,white,83736,1610.7198481678251,80000,86317
+by_race,puma,0900105,total,black,59343,4847.583390432963,49737,68884
+by_race,puma,0900105,total,latino,63586,4141.168935562891,54428,70737
+by_race,puma,0900105,total,api,97107,11512.174883250786,76000,121579
+by_race,puma,0900105,total,other_race,59343,13408.041353201736,40000,93947
+by_race,puma,0900300,total,white,70133,1143.5518384940542,68884,73369
+by_race,puma,0900300,total,black,60000,4609.599507483947,52988,71175
+by_race,puma,0900300,total,latino,47101,5499.934584567714,40271,62000
+by_race,puma,0900300,total,api,80000,6549.188769372012,74183,100000
+by_race,puma,0900300,total,other_race,62802,11470.453836905228,37092,82895
+by_race,puma,0900301,total,white,63586,1689.8363404095037,59684,66316
+by_race,puma,0900301,total,black,45570,2977.3055767974215,40271,52000
+by_race,puma,0900301,total,latino,43857,2867.585380368498,40000,51288
+by_race,puma,0900301,total,api,82895,4607.593812120744,71842,90080
+by_race,puma,0900301,total,other_race,62802,10377.183365888759,42390,84000
+by_race,puma,0900302,total,white,66316,4385.393925463802,56000,73269
+by_race,puma,0900302,total,black,42000,1203.1185646829824,40271,45000
+by_race,puma,0900302,total,latino,33664,1231.5513221609847,31793,36634
+by_race,puma,0900302,total,api,70000,12800.56819941056,50400,101529
+by_race,puma,0900302,total,other_race,37764,9245.934686426257,25000,62580
+by_race,puma,0900303,total,white,92791,1932.9976419676248,89526,97107
+by_race,puma,0900303,total,black,59343,3137.3165649381444,53948,66316
+by_race,puma,0900303,total,latino,52988,3441.9126722646342,46421,60000
+by_race,puma,0900303,total,api,99436,6737.561676321784,88475,115000
+by_race,puma,0900303,total,other_race,71175,10794.946868218381,57000,100000
+by_race,puma,0900304,total,white,70000,1797.9349881053745,66316,73369
+by_race,puma,0900304,total,black,52335,5996.072637022993,48000,72064
+by_race,puma,0900304,total,latino,44000,3306.6513855431017,39774,52869
+by_race,puma,0900304,total,api,56167,10394.76502046439,35606,77363
+by_race,puma,0900304,total,other_race,53053,9264.676090458406,40000,77368
+by_race,puma,0900305,total,white,60789,1913.6602908212492,57227,64738
+by_race,puma,0900305,total,black,43482,3178.7093868955744,36142,48749
+by_race,puma,0900305,total,latino,38843,1317.383545893565,36685,41868
+by_race,puma,0900305,total,api,59905,7644.861595960378,47101,77685
+by_race,puma,0900305,total,other_race,54428,10847.33696972869,45008,90000
+by_race,puma,0900306,total,white,84781,1429.318033583876,81789,87396
+by_race,puma,0900306,total,black,73269,8020.44229168201,61895,94203
+by_race,puma,0900306,total,latino,60000,4842.605854092502,49737,68884
+by_race,puma,0900306,total,api,100677,6462.290873011747,85000,110526
+by_race,puma,0900306,total,other_race,93947,10973.357245394525,61466,105976
+by_race,puma,0900500,total,white,63586,740.2930471836197,62802,65705
+by_race,puma,0900500,total,black,58615,8185.560657832738,47101,80000
+by_race,puma,0900500,total,latino,52988,4929.262885036271,42000,61466
+by_race,puma,0900500,total,api,70129,15768.09626895317,53948,117230
+by_race,puma,0900500,total,other_race,65000,7137.827968347065,55263,83721
+by_race,puma,0900700,total,white,74607,1408.98779525407,71842,77368
+by_race,puma,0900700,total,black,46395,4535.552159259783,38000,56106
+by_race,puma,0900700,total,latino,53948,5709.810931472708,43698,66316
+by_race,puma,0900700,total,api,73164,10019.74764267271,53948,93947
+by_race,puma,0900700,total,other_race,57568,8542.697438121948,41868,76000
+by_race,puma,0900900,total,white,76606,2294.2567461005337,72000,81000
+by_race,puma,0900900,total,black,61895,15828.394641592955,43158,107000
+by_race,puma,0900900,total,latino,63586,4868.056655730209,53948,73269
+by_race,puma,0900900,total,api,83000,8459.880592318252,72222,105976
+by_race,puma,0900900,total,other_race,64105,17691.32421852983,33158,104669
+by_race,puma,0900901,total,white,58287,2118.6968925484466,55263,63586
+by_race,puma,0900901,total,black,42390,2234.4354390942085,40271,49093
+by_race,puma,0900901,total,latino,42390,2113.4667128371534,38681,47000
+by_race,puma,0900901,total,api,62000,10322.114572610106,40000,82001
+by_race,puma,0900901,total,other_race,62000,9611.63460329141,38684,78000
+by_race,puma,0900902,total,white,66316,1341.2848248321482,64738,70000
+by_race,puma,0900902,total,black,48853,2296.2244697405145,43158,52279
+by_race,puma,0900902,total,latino,47101,1533.8339973534542,43961,50000
+by_race,puma,0900902,total,api,62802,12184.57953576239,40000,88421
+by_race,puma,0900902,total,other_race,53948,3059.8506024507437,51288,63586
+by_race,puma,0900903,total,white,71842,1981.8641721390504,68526,76303
+by_race,puma,0900903,total,black,56000,3548.3965424472913,51947,65942
+by_race,puma,0900903,total,latino,48553,4534.4032236201165,41437,59347
+by_race,puma,0900903,total,api,70129,10684.584105664717,57474,100000
+by_race,puma,0900903,total,other_race,65000,8598.275911802584,53826,88421
+by_race,puma,0900904,total,white,75000,1135.6141598153993,73000,77455
+by_race,puma,0900904,total,black,52869,6518.326952086516,44300,70133
+by_race,puma,0900904,total,latino,47689,4593.423175164841,41868,60000
+by_race,puma,0900904,total,api,82895,9858.86203784939,68884,107896
+by_race,puma,0900904,total,other_race,55263,12457.644925219,34527,85841
+by_race,puma,0900905,total,white,65942,2730.021428956924,61501,72222
+by_race,puma,0900905,total,black,43961,2033.9543055223496,42000,50000
+by_race,puma,0900905,total,latino,40271,1924.6772970734974,36634,44211
+by_race,puma,0900905,total,api,68884,7191.009487911762,55263,83736
+by_race,puma,0900905,total,other_race,60789,8808.23558835677,40000,75527
+by_race,puma,0900906,total,white,75000,1764.4408088395578,71842,78764
+by_race,puma,0900906,total,black,43000,9830.351251265547,42000,82000
+by_race,puma,0900906,total,latino,57568,4912.711803634649,48553,68035
+by_race,puma,0900906,total,api,116574,20477.991177810105,80000,161844
+by_race,puma,0900906,total,other_race,71175,7129.423908252035,53948,82895
+by_race,puma,0901100,total,white,66896,1375.3483665897531,64738,70133
+by_race,puma,0901100,total,black,44211,4858.128086372558,34484,53948
+by_race,puma,0901100,total,latino,43158,2115.162964998263,41868,50241
+by_race,puma,0901100,total,api,42705,1784.3498070571588,38684,45782
+by_race,puma,0901100,total,other_race,55263,7879.53426794701,49632,80922
+by_race,puma,0901101,total,white,71004,1582.695828277458,67975,74183
+by_race,puma,0901101,total,black,48553,7041.304618633437,45000,73000
+by_race,puma,0901101,total,latino,44211,2465.186163505811,40000,49737
+by_race,puma,0901101,total,api,91062,6597.402533419109,82661,108856
+by_race,puma,0901101,total,other_race,68884,7731.603946424465,52335,83080
+by_race,puma,0901300,total,white,74183,1578.893840075089,71175,77368
+by_race,puma,0901300,total,black,40821,9976.684300496245,33912,74053
+by_race,puma,0901300,total,latino,53053,5885.993318050306,42390,65817
+by_race,puma,0901300,total,api,80922,8072.013647695091,67825,100000
+by_race,puma,0901300,total,other_race,58615,12464.190410131181,40000,90000
+by_race,puma,0901500,total,white,58264,1388.0457737819347,55263,60708
+by_race,puma,0901500,total,black,44171,18873.58080513992,36032,118276
+by_race,puma,0901500,total,latino,38000,3568.431871668223,34000,48148
+by_race,puma,0901500,total,api,74183,15428.138054918172,30211,94203
+by_race,puma,0901500,total,other_race,70000,9281.978204833438,57000,94203
+by_race_x_sex,state,Connecticut,male,white,82895,510.1879026817437,82000,84000
+by_race_x_sex,state,Connecticut,female,white,66316,533.9031218986854,65942,68035
+by_race_x_sex,state,Connecticut,male,black,51811,1127.0508000905359,48632,53053
+by_race_x_sex,state,Connecticut,female,black,47526,1272.7232554042344,45008,50000
+by_race_x_sex,state,Connecticut,male,latino,47101,816.0282576182262,45800,49000
+by_race_x_sex,state,Connecticut,female,latino,40000,677.5054472957902,39211,41868
+by_race_x_sex,state,Connecticut,male,api,95053,3233.3842278487514,87316,100000
+by_race_x_sex,state,Connecticut,female,api,71842,2572.2585642059025,66316,76409
+by_race_x_sex,state,Connecticut,male,other_race,66988,2342.6698054535386,62802,72000
+by_race_x_sex,state,Connecticut,female,other_race,56368,2294.72775621697,52988,62000
+by_race_x_sex,region,Backus Hospital HSA,male,white,75000,1697.96269689447,71842,78502
+by_race_x_sex,region,Backus Hospital HSA,female,white,52988,1472.7771387576665,51790,57568
+by_race_x_sex,region,Backus Hospital HSA,male,black,47689,6706.756181118945,40000,67000
+by_race_x_sex,region,Backus Hospital HSA,female,black,39000,6736.670732756025,31401,59343
+by_race_x_sex,region,Backus Hospital HSA,male,latino,44211,2054.7603905732576,41868,50000
+by_race_x_sex,region,Backus Hospital HSA,female,latino,41868,3582.6351771554864,36032,50241
+by_race_x_sex,region,Backus Hospital HSA,male,api,44211,1537.0002663776118,42390,48553
+by_race_x_sex,region,Backus Hospital HSA,female,api,38684,5627.411501848644,27214,49809
+by_race_x_sex,region,Backus Hospital HSA,male,other_race,65000,13293.301405442819,47101,100000
+by_race_x_sex,region,Backus Hospital HSA,female,other_race,55263,9338.155912378901,49632,86900
+by_race_x_sex,region,Capitol Region COG,male,white,80922,1085.0303751034025,79482,83736
+by_race_x_sex,region,Capitol Region COG,female,white,66896,861.301391565537,65705,69082
+by_race_x_sex,region,Capitol Region COG,male,black,51790,2334.14084663769,47000,56167
+by_race_x_sex,region,Capitol Region COG,female,black,45868,1742.4394462727448,43158,50000
+by_race_x_sex,region,Capitol Region COG,male,latino,43857,1200.2470756199539,42390,47101
+by_race_x_sex,region,Capitol Region COG,female,latino,37911,1195.9473808712714,36000,40695
+by_race_x_sex,region,Capitol Region COG,male,api,91712,3741.0129111407514,84781,99474
+by_race_x_sex,region,Capitol Region COG,female,api,71004,3993.3813039773017,62802,78502
+by_race_x_sex,region,Capitol Region COG,male,other_race,70129,7047.405776272834,55108,82895
+by_race_x_sex,region,Capitol Region COG,female,other_race,59343,4785.401751733147,50000,68884
+by_race_x_sex,region,Charlotte Hungerford HSA,male,white,73124,1701.1837835683048,69632,76303
+by_race_x_sex,region,Charlotte Hungerford HSA,female,white,58579,1476.0522270726435,55000,60789
+by_race_x_sex,region,Charlotte Hungerford HSA,male,black,50842,9509.873832068633,45000,82661
+by_race_x_sex,region,Charlotte Hungerford HSA,female,black,59343,5818.144829813686,56000,79000
+by_race_x_sex,region,Charlotte Hungerford HSA,male,latino,57185,5041.7415408187535,50241,70133
+by_race_x_sex,region,Charlotte Hungerford HSA,female,latino,47206,4478.4183306362,38684,56368
+by_race_x_sex,region,Charlotte Hungerford HSA,male,api,105976,14619.833488514214,74183,131884
+by_race_x_sex,region,Charlotte Hungerford HSA,female,api,60000,8968.621755947712,52988,88421
+by_race_x_sex,region,Charlotte Hungerford HSA,male,other_race,75527,19107.558047298546,50000,126112
+by_race_x_sex,region,Charlotte Hungerford HSA,female,other_race,62526,6501.749124867967,55000,80922
+by_race_x_sex,region,Connecticut Metro COG,male,white,99474,2668.788745655429,94203,104669
+by_race_x_sex,region,Connecticut Metro COG,female,white,75158,2408.292848813675,70133,79579
+by_race_x_sex,region,Connecticut Metro COG,male,black,46421,2294.4026681083615,43961,52988
+by_race_x_sex,region,Connecticut Metro COG,female,black,48000,2333.8491996923717,43158,52335
+by_race_x_sex,region,Connecticut Metro COG,male,latino,45845,2609.9473217702393,42080,52335
+by_race_x_sex,region,Connecticut Metro COG,female,latino,37092,1753.6519888690473,34000,40895
+by_race_x_sex,region,Connecticut Metro COG,male,api,98000,13333.391162324946,77368,130000
+by_race_x_sex,region,Connecticut Metro COG,female,api,75000,9716.05253541598,64105,102501
+by_race_x_sex,region,Connecticut Metro COG,male,other_race,62802,8514.451580988247,59343,93259
+by_race_x_sex,region,Connecticut Metro COG,female,other_race,41868,7206.323023870592,36000,64738
+by_race_x_sex,region,Eastern Connecticut Health Network,male,white,74183,1660.0485458005269,71175,77685
+by_race_x_sex,region,Eastern Connecticut Health Network,female,white,64105,1253.4642084426173,60789,65705
+by_race_x_sex,region,Eastern Connecticut Health Network,male,black,46421,4154.617960269396,40000,56368
+by_race_x_sex,region,Eastern Connecticut Health Network,female,black,46421,3079.21668760387,41868,54000
+by_race_x_sex,region,Eastern Connecticut Health Network,male,latino,46421,2659.1347369936057,41868,52335
+by_race_x_sex,region,Eastern Connecticut Health Network,female,latino,41000,3893.7718754711464,35368,50711
+by_race_x_sex,region,Eastern Connecticut Health Network,male,api,82000,2993.7180707841903,75527,87316
+by_race_x_sex,region,Eastern Connecticut Health Network,female,api,78502,9005.49217705969,58615,94203
+by_race_x_sex,region,Eastern Connecticut Health Network,male,other_race,81000,9482.216275932078,52335,90000
+by_race_x_sex,region,Eastern Connecticut Health Network,female,other_race,50000,7195.17743834998,36111,64738
+by_race_x_sex,region,Fairfield County,male,white,105976,1359.7172540245988,104669,110000
+by_race_x_sex,region,Fairfield County,female,white,80000,1620.2584821892133,77368,83721
+by_race_x_sex,region,Fairfield County,male,black,52988,3196.730943274005,47101,59662
+by_race_x_sex,region,Fairfield County,female,black,49737,2398.4517250635345,45008,54428
+by_race_x_sex,region,Fairfield County,male,latino,48553,1739.22523020875,45845,52670
+by_race_x_sex,region,Fairfield County,female,latino,40000,1261.958036346889,38204,43158
+by_race_x_sex,region,Fairfield County,male,api,110526,4940.561079504412,104669,124081
+by_race_x_sex,region,Fairfield County,female,api,84781,6974.3169182548445,74315,101737
+by_race_x_sex,region,Fairfield County,male,other_race,65000,5164.883256688977,57000,77368
+by_race_x_sex,region,Fairfield County,female,other_race,51292,7119.145491191773,41868,70000
+by_race_x_sex,region,Greater Bridgeport,male,white,99474,2668.788745655429,94203,104669
+by_race_x_sex,region,Greater Bridgeport,female,white,75158,2408.292848813675,70133,79579
+by_race_x_sex,region,Greater Bridgeport,male,black,46421,2294.4026681083615,43961,52988
+by_race_x_sex,region,Greater Bridgeport,female,black,48000,2333.8491996923717,43158,52335
+by_race_x_sex,region,Greater Bridgeport,male,latino,45845,2609.9473217702393,42080,52335
+by_race_x_sex,region,Greater Bridgeport,female,latino,37092,1753.6519888690473,34000,40895
+by_race_x_sex,region,Greater Bridgeport,male,api,98000,13333.391162324946,77368,130000
+by_race_x_sex,region,Greater Bridgeport,female,api,75000,9716.05253541598,64105,102501
+by_race_x_sex,region,Greater Bridgeport,male,other_race,62802,8514.451580988247,59343,93259
+by_race_x_sex,region,Greater Bridgeport,female,other_race,41868,7206.323023870592,36000,64738
+by_race_x_sex,region,Greater Danbury,male,white,83779,1748.1078568365604,80542,87396
+by_race_x_sex,region,Greater Danbury,female,white,68884,1489.8829987437607,66000,71842
+by_race_x_sex,region,Greater Danbury,male,black,52335,9096.680859175876,44086,80000
+by_race_x_sex,region,Greater Danbury,female,black,57568,6366.221105766347,45000,70133
+by_race_x_sex,region,Greater Danbury,male,latino,52988,2396.6990003247647,48148,57568
+by_race_x_sex,region,Greater Danbury,female,latino,39211,2482.2712923436093,37764,47526
+by_race_x_sex,region,Greater Danbury,male,api,104669,8328.916704277115,83736,116574
+by_race_x_sex,region,Greater Danbury,female,api,66316,6184.170144947097,58287,82689
+by_race_x_sex,region,Greater Danbury,male,other_race,55000,3543.4346205807074,52988,67000
+by_race_x_sex,region,Greater Danbury,female,other_race,44000,12831.265077703601,36032,87000
+by_race_x_sex,region,Greater Hartford,male,white,80922,1085.0303751034025,79482,83736
+by_race_x_sex,region,Greater Hartford,female,white,66896,861.301391565537,65705,69082
+by_race_x_sex,region,Greater Hartford,male,black,51790,2334.14084663769,47000,56167
+by_race_x_sex,region,Greater Hartford,female,black,45868,1742.4394462727448,43158,50000
+by_race_x_sex,region,Greater Hartford,male,latino,43857,1200.2470756199539,42390,47101
+by_race_x_sex,region,Greater Hartford,female,latino,37911,1195.9473808712714,36000,40695
+by_race_x_sex,region,Greater Hartford,male,api,91712,3741.0129111407514,84781,99474
+by_race_x_sex,region,Greater Hartford,female,api,71004,3993.3813039773017,62802,78502
+by_race_x_sex,region,Greater Hartford,male,other_race,70129,7047.405776272834,55108,82895
+by_race_x_sex,region,Greater Hartford,female,other_race,59343,4785.401751733147,50000,68884
+by_race_x_sex,region,Greater New Haven,male,white,79482,1621.4000415481337,76303,82661
+by_race_x_sex,region,Greater New Haven,female,white,65942,1259.7054035810431,63586,68526
+by_race_x_sex,region,Greater New Haven,male,black,52335,2796.243370399472,45000,56000
+by_race_x_sex,region,Greater New Haven,female,black,46055,2208.1558269970046,43158,51837
+by_race_x_sex,region,Greater New Haven,male,latino,47101,2375.993300502104,43000,52335
+by_race_x_sex,region,Greater New Haven,female,latino,42000,2035.5983691625438,40000,48000
+by_race_x_sex,region,Greater New Haven,male,api,88421,7265.135695807482,77368,105976
+by_race_x_sex,region,Greater New Haven,female,api,68884,8492.831624689488,56522,90000
+by_race_x_sex,region,Greater New Haven,male,other_race,63586,5038.770700940389,52988,73000
+by_race_x_sex,region,Greater New Haven,female,other_race,65000,6067.708003423884,53948,78000
+by_race_x_sex,region,Greater Norwalk,male,white,150000,4630.289607196651,143684,161844
+by_race_x_sex,region,Greater Norwalk,female,white,89020,2560.203587188346,84159,94203
+by_race_x_sex,region,Greater Norwalk,male,black,55263,8004.686750678226,43158,75000
+by_race_x_sex,region,Greater Norwalk,female,black,52988,6566.168907444956,43961,70000
+by_race_x_sex,region,Greater Norwalk,male,latino,52140,3149.59927106572,46935,59343
+by_race_x_sex,region,Greater Norwalk,female,latino,48230,4036.015497842464,40232,56167
+by_race_x_sex,region,Greater Norwalk,male,api,120370,8026.826137150719,113291,145000
+by_race_x_sex,region,Greater Norwalk,female,api,110526,14829.157947307973,81602,140265
+by_race_x_sex,region,Greater Norwalk,male,other_race,115136,18301.283917517103,73269,146537
+by_race_x_sex,region,Greater Norwalk,female,other_race,68035,9393.352147270329,45008,82895
+by_race_x_sex,region,Greater Waterbury,male,white,74183,1658.0482909991154,72000,78502
+by_race_x_sex,region,Greater Waterbury,female,white,61466,1374.5613338650444,59347,64738
+by_race_x_sex,region,Greater Waterbury,male,black,45000,2611.092980053487,42000,52330
+by_race_x_sex,region,Greater Waterbury,female,black,47689,4190.043521042157,38684,55263
+by_race_x_sex,region,Greater Waterbury,male,latino,48963,2856.365984799902,42914,54158
+by_race_x_sex,region,Greater Waterbury,female,latino,41868,2658.1437125285556,36634,47101
+by_race_x_sex,region,Greater Waterbury,male,api,83000,9970.0356928553,66316,105976
+by_race_x_sex,region,Greater Waterbury,female,api,72222,6563.701598976539,68884,95053
+by_race_x_sex,region,Greater Waterbury,male,other_race,75527,8515.235441171651,58287,92199
+by_race_x_sex,region,Greater Waterbury,female,other_race,55263,11226.565729780914,33158,78000
+by_race_x_sex,region,Hartford County,male,white,80684,1147.2264063361445,78502,83000
+by_race_x_sex,region,Hartford County,female,white,66896,1041.0661352513096,65000,69082
+by_race_x_sex,region,Hartford County,male,black,52335,1989.709866671233,48553,56368
+by_race_x_sex,region,Hartford County,female,black,46421,1537.8674633470707,43961,50000
+by_race_x_sex,region,Hartford County,male,latino,43857,1449.3015369986886,42000,47689
+by_race_x_sex,region,Hartford County,female,latino,37939,1195.8864369062496,36000,40695
+by_race_x_sex,region,Hartford County,male,api,90080,4032.594847997539,84159,100000
+by_race_x_sex,region,Hartford County,female,api,70000,3992.7143104886286,62802,78502
+by_race_x_sex,region,Hartford County,male,other_race,67421,7095.228459200737,54000,82000
+by_race_x_sex,region,Hartford County,female,other_race,61466,5094.950676642437,50000,70129
+by_race_x_sex,region,Hartford Foundation,male,white,83736,791.9280559494484,82895,86000
+by_race_x_sex,region,Hartford Foundation,female,white,69944,979.8373972194373,68000,71842
+by_race_x_sex,region,Hartford Foundation,male,black,53381,2774.3557519231367,47101,58000
+by_race_x_sex,region,Hartford Foundation,female,black,47084,1704.4037233376848,43547,50241
+by_race_x_sex,region,Hartford Foundation,male,latino,43961,1428.634727857777,42390,48000
+by_race_x_sex,region,Hartford Foundation,female,latino,39400,1570.3556602565445,35700,41868
+by_race_x_sex,region,Hartford Foundation,male,api,94203,3481.56724270046,87000,100677
+by_race_x_sex,region,Hartford Foundation,female,api,74183,4048.2292794613804,65000,80922
+by_race_x_sex,region,Hartford Foundation,male,other_race,72506,7065.543035214988,55000,82895
+by_race_x_sex,region,Hartford Foundation,female,other_race,61466,5095.439030826227,50000,70133
+by_race_x_sex,region,Hartford Hospital HSA,male,white,82689,1351.4294276578046,79482,84781
+by_race_x_sex,region,Hartford Hospital HSA,female,white,68884,1081.0046016790654,66765,71004
+by_race_x_sex,region,Hartford Hospital HSA,male,black,50127,3094.2099319667977,44211,56368
+by_race_x_sex,region,Hartford Hospital HSA,female,black,45570,1870.556415922399,42390,49737
+by_race_x_sex,region,Hartford Hospital HSA,male,latino,43158,1289.398157437011,41331,46395
+by_race_x_sex,region,Hartford Hospital HSA,female,latino,36634,1527.4407760047716,35000,41000
+by_race_x_sex,region,Hartford Hospital HSA,male,api,91712,3873.237458222751,84781,100000
+by_race_x_sex,region,Hartford Hospital HSA,female,api,74183,5094.903193440736,64738,84781
+by_race_x_sex,region,Hartford Hospital HSA,male,other_race,63586,9318.598019100518,46055,82895
+by_race_x_sex,region,Hartford Hospital HSA,female,other_race,62580,6244.660727940723,48553,73269
+by_race_x_sex,region,Health Improvement Collaborative of Southeastern Connecticut area,male,white,77368,1953.2805502450417,75000,82661
+by_race_x_sex,region,Health Improvement Collaborative of Southeastern Connecticut area,female,white,59343,2334.3658079173406,54428,63586
+by_race_x_sex,region,Health Improvement Collaborative of Southeastern Connecticut area,male,black,53948,8439.96790990377,45000,78502
+by_race_x_sex,region,Health Improvement Collaborative of Southeastern Connecticut area,female,black,45008,8539.88136866308,44000,78422
+by_race_x_sex,region,Health Improvement Collaborative of Southeastern Connecticut area,male,latino,43961,3652.6652321481424,40000,54428
+by_race_x_sex,region,Health Improvement Collaborative of Southeastern Connecticut area,female,latino,44211,2965.200601648271,38000,49737
+by_race_x_sex,region,Health Improvement Collaborative of Southeastern Connecticut area,male,api,99474,8255.145681979935,77455,110215
+by_race_x_sex,region,Health Improvement Collaborative of Southeastern Connecticut area,female,api,75000,8233.062005658176,58287,91062
+by_race_x_sex,region,Health Improvement Collaborative of Southeastern Connecticut area,male,other_race,70000,6306.42101034628,52335,77368
+by_race_x_sex,region,Health Improvement Collaborative of Southeastern Connecticut area,female,other_race,55000,19376.233063186442,36200,113291
+by_race_x_sex,region,Hospital of Central Connecticut HSA,male,white,74183,1409.1957445571359,71842,77368
+by_race_x_sex,region,Hospital of Central Connecticut HSA,female,white,62802,1073.7512488680431,60789,65000
+by_race_x_sex,region,Hospital of Central Connecticut HSA,male,black,52335,3778.515356693617,48632,63586
+by_race_x_sex,region,Hospital of Central Connecticut HSA,female,black,43547,5674.966264887031,35000,57474
+by_race_x_sex,region,Hospital of Central Connecticut HSA,male,latino,44000,2796.535626799611,41337,52335
+by_race_x_sex,region,Hospital of Central Connecticut HSA,female,latino,38000,1491.2868084715662,36000,41868
+by_race_x_sex,region,Hospital of Central Connecticut HSA,male,api,75000,6584.373691376471,63000,88969
+by_race_x_sex,region,Hospital of Central Connecticut HSA,female,api,52988,7653.488395567856,39741,70000
+by_race_x_sex,region,Hospital of Central Connecticut HSA,male,other_race,60708,7523.36370225065,52988,82895
+by_race_x_sex,region,Hospital of Central Connecticut HSA,female,other_race,50974,9390.284364236968,38787,76409
+by_race_x_sex,region,Litchfield County,male,white,70000,2213.8816129221873,66316,75000
+by_race_x_sex,region,Litchfield County,female,white,55816,1706.6631673978766,52988,59684
+by_race_x_sex,region,Litchfield County,male,black,48632,10608.819697905665,39126,82661
+by_race_x_sex,region,Litchfield County,female,black,59343,14395.220572269323,55263,115136
+by_race_x_sex,region,Litchfield County,male,latino,57185,6447.447476800888,48553,74183
+by_race_x_sex,region,Litchfield County,female,latino,47206,5549.355826092264,38684,60789
+by_race_x_sex,region,Litchfield County,male,api,100000,35590.658884082186,53948,200000
+by_race_x_sex,region,Litchfield County,female,api,55475,15563.26487996707,52988,117230
+by_race_x_sex,region,Litchfield County,male,other_race,75527,19497.407438255017,47101,126112
+by_race_x_sex,region,Litchfield County,female,other_race,58000,6636.504583067107,53948,80922
+by_race_x_sex,region,Lower Connecticut River Valley COG,male,white,78422,1510.0074000582708,75000,80922
+by_race_x_sex,region,Lower Connecticut River Valley COG,female,white,68884,2407.812764789259,64738,74183
+by_race_x_sex,region,Lower Connecticut River Valley COG,male,black,46800,10533.943925577485,37681,79549
+by_race_x_sex,region,Lower Connecticut River Valley COG,female,black,46395,7640.423200912595,32053,62580
+by_race_x_sex,region,Lower Connecticut River Valley COG,male,latino,53948,5723.139970769381,43698,66316
+by_race_x_sex,region,Lower Connecticut River Valley COG,female,latino,49737,7317.999315270867,39922,68884
+by_race_x_sex,region,Lower Connecticut River Valley COG,male,api,75000,16192.828485433989,50000,114370
+by_race_x_sex,region,Lower Connecticut River Valley COG,female,api,70000,12483.295572989986,44211,93947
+by_race_x_sex,region,Lower Connecticut River Valley COG,male,other_race,63586,12755.52819597482,50241,101000
+by_race_x_sex,region,Lower Connecticut River Valley COG,female,other_race,45008,12027.248143023162,40000,88000
+by_race_x_sex,region,Lower Naugatuck Valley,male,white,85105,1409.1390248284742,82895,88421
+by_race_x_sex,region,Lower Naugatuck Valley,female,white,68884,1195.3131718947645,66316,71004
+by_race_x_sex,region,Lower Naugatuck Valley,male,black,55000,3561.4352531325935,51947,66000
+by_race_x_sex,region,Lower Naugatuck Valley,female,black,57474,3845.4403883417394,50842,66000
+by_race_x_sex,region,Lower Naugatuck Valley,male,latino,62802,4066.7263574451845,52988,69000
+by_race_x_sex,region,Lower Naugatuck Valley,female,latino,51398,4216.391142491926,42390,59000
+by_race_x_sex,region,Lower Naugatuck Valley,male,api,97107,7235.455594812675,77368,105976
+by_race_x_sex,region,Lower Naugatuck Valley,female,api,72222,7263.279789094619,66316,95053
+by_race_x_sex,region,Lower Naugatuck Valley,male,other_race,71175,7635.401613035395,58000,88421
+by_race_x_sex,region,Lower Naugatuck Valley,female,other_race,56522,15747.655000833895,39000,102000
+by_race_x_sex,region,MidState Medical Center HSA,male,white,75362,1371.3321121157965,73124,78502
+by_race_x_sex,region,MidState Medical Center HSA,female,white,62802,1375.5198297223178,60422,65817
+by_race_x_sex,region,MidState Medical Center HSA,male,black,52006,4037.2494126611045,43961,60000
+by_race_x_sex,region,MidState Medical Center HSA,female,black,48853,2211.139584061411,44211,52988
+by_race_x_sex,region,MidState Medical Center HSA,male,latino,48985,1763.9130381900989,47101,54048
+by_race_x_sex,region,MidState Medical Center HSA,female,latino,41868,2384.4368492384815,37800,47195
+by_race_x_sex,region,MidState Medical Center HSA,male,api,79482,13709.037394612706,56167,110526
+by_race_x_sex,region,MidState Medical Center HSA,female,api,49405,8083.643342340209,40000,72064
+by_race_x_sex,region,MidState Medical Center HSA,male,other_race,59347,4030.6251268485303,53948,70000
+by_race_x_sex,region,MidState Medical Center HSA,female,other_race,49000,7215.308606702522,37092,66000
+by_race_x_sex,region,Middlesex County,male,white,78422,1669.9551629554176,74448,81000
+by_race_x_sex,region,Middlesex County,female,white,69054,2406.5223484976577,64738,74183
+by_race_x_sex,region,Middlesex County,male,black,44211,12679.50312902837,34527,86317
+by_race_x_sex,region,Middlesex County,female,black,46395,8514.891317489017,30200,64738
+by_race_x_sex,region,Middlesex County,male,latino,53948,5828.132126975287,43000,66316
+by_race_x_sex,region,Middlesex County,female,latino,50000,7963.893887543568,39922,71842
+by_race_x_sex,region,Middlesex County,male,api,73164,16102.639150929008,50000,115449
+by_race_x_sex,region,Middlesex County,female,api,68035,13733.144528176816,38000,93947
+by_race_x_sex,region,Middlesex County,male,other_race,60000,15486.291623036992,41500,104669
+by_race_x_sex,region,Middlesex County,female,other_race,44510,8190.253281268837,36634,70000
+by_race_x_sex,region,Natchaug Hospital HSA,male,white,71842,1329.5977704753745,69944,75158
+by_race_x_sex,region,Natchaug Hospital HSA,female,white,59343,1487.2598908118553,56167,62000
+by_race_x_sex,region,Natchaug Hospital HSA,male,black,44171,8721.9422784583,37092,71842
+by_race_x_sex,region,Natchaug Hospital HSA,female,black,33494,10494.959156668054,26494,68884
+by_race_x_sex,region,Natchaug Hospital HSA,male,latino,45217,3291.172401003542,40000,52988
+by_race_x_sex,region,Natchaug Hospital HSA,female,latino,39211,3119.189055128117,34760,47101
+by_race_x_sex,region,Natchaug Hospital HSA,male,api,80922,6587.8230803008355,67825,93947
+by_race_x_sex,region,Natchaug Hospital HSA,female,api,58615,10635.238618588664,51811,94203
+by_race_x_sex,region,Natchaug Hospital HSA,male,other_race,81000,8627.650477627261,60000,94203
+by_race_x_sex,region,Natchaug Hospital HSA,female,other_race,54428,9136.628047522237,37092,73369
+by_race_x_sex,region,Naugatuck Valley COG,male,white,77368,1275.27495337679,75000,80000
+by_race_x_sex,region,Naugatuck Valley COG,female,white,63586,1067.8544421598422,61755,65942
+by_race_x_sex,region,Naugatuck Valley COG,male,black,49737,2274.1417292145516,45000,53948
+by_race_x_sex,region,Naugatuck Valley COG,female,black,51947,3395.7446128323963,44211,57568
+by_race_x_sex,region,Naugatuck Valley COG,male,latino,50842,2478.718264942367,44211,53948
+by_race_x_sex,region,Naugatuck Valley COG,female,latino,42000,2142.2925908946063,38684,47101
+by_race_x_sex,region,Naugatuck Valley COG,male,api,80000,8284.885936005307,70129,102789
+by_race_x_sex,region,Naugatuck Valley COG,female,api,70133,5953.23794840025,56000,79482
+by_race_x_sex,region,Naugatuck Valley COG,male,other_race,72064,5828.433106445128,60708,83736
+by_race_x_sex,region,Naugatuck Valley COG,female,other_race,55263,8200.454361234428,37681,70133
+by_race_x_sex,region,New Haven County,male,white,77368,1182.879333383147,75362,80000
+by_race_x_sex,region,New Haven County,female,white,64738,696.2245622279341,63586,66316
+by_race_x_sex,region,New Haven County,male,black,50000,2048.8120151967096,45000,53053
+by_race_x_sex,region,New Haven County,female,black,48148,2032.894857155667,43961,51947
+by_race_x_sex,region,New Haven County,male,latino,47689,1414.2653644690358,45316,50869
+by_race_x_sex,region,New Haven County,female,latino,41868,1165.234104719344,39635,44211
+by_race_x_sex,region,New Haven County,male,api,85000,6460.843533802504,77368,102789
+by_race_x_sex,region,New Haven County,female,api,68884,5100.164028639383,56522,76606
+by_race_x_sex,region,New Haven County,male,other_race,64105,3719.2336034424115,58287,73000
+by_race_x_sex,region,New Haven County,female,other_race,56522,5423.980083788483,48553,70000
+by_race_x_sex,region,New London County,male,white,76303,1375.7866922232404,74183,79579
+by_race_x_sex,region,New London County,female,white,56106,1787.3523744394402,52988,60000
+by_race_x_sex,region,New London County,male,black,51251,5568.7866589583555,44211,66316
+by_race_x_sex,region,New London County,female,black,45008,6084.746105625202,44000,68526
+by_race_x_sex,region,New London County,male,latino,44211,2058.738125022782,41868,50000
+by_race_x_sex,region,New London County,female,latino,43158,2792.3968859178954,38684,49737
+by_race_x_sex,region,New London County,male,api,74183,13187.822016679484,47101,99436
+by_race_x_sex,region,New London County,female,api,50621,8586.750832628937,40000,74183
+by_race_x_sex,region,New London County,male,other_race,70000,6969.485768834333,52335,80000
+by_race_x_sex,region,New London County,female,other_race,55000,9643.503264561848,49632,88000
+by_race_x_sex,region,North Central DMHAS,male,white,80000,1120.5263897183438,78502,82895
+by_race_x_sex,region,North Central DMHAS,female,white,66316,990.6562036124617,65000,68884
+by_race_x_sex,region,North Central DMHAS,male,black,52335,2029.2620942022475,48553,56522
+by_race_x_sex,region,North Central DMHAS,female,black,46000,1675.54915926214,43158,49737
+by_race_x_sex,region,North Central DMHAS,male,latino,43857,1200.381723351659,42390,47101
+by_race_x_sex,region,North Central DMHAS,female,latino,38832,1129.3536486667351,36474,40907
+by_race_x_sex,region,North Central DMHAS,male,api,90000,3930.5175630590643,84000,99436
+by_race_x_sex,region,North Central DMHAS,female,api,70000,3994.057550131699,62802,78502
+by_race_x_sex,region,North Central DMHAS,male,other_race,69944,6826.57908307787,55108,82000
+by_race_x_sex,region,North Central DMHAS,female,other_race,58615,4614.003870895885,49847,68035
+by_race_x_sex,region,Northeastern Connecticut COG,male,white,63586,1689.6870655060764,60789,67421
+by_race_x_sex,region,Northeastern Connecticut COG,female,white,52721,1708.9045442429037,48553,55263
+by_race_x_sex,region,Northeastern Connecticut COG,male,black,47689,NA,44171,NA
+by_race_x_sex,region,Northeastern Connecticut COG,female,black,33494,NA,NA,NA
+by_race_x_sex,region,Northeastern Connecticut COG,male,latino,38000,5208.809855862562,30000,50869
+by_race_x_sex,region,Northeastern Connecticut COG,female,latino,37472,3226.940128847376,32045,45008
+by_race_x_sex,region,Northeastern Connecticut COG,male,api,77368,NA,26167,NA
+by_race_x_sex,region,Northeastern Connecticut COG,female,api,51811,19367.893429219177,30211,113291
+by_race_x_sex,region,Northeastern Connecticut COG,male,other_race,79000,9856.647440862682,57000,97107
+by_race_x_sex,region,Northeastern Connecticut COG,female,other_race,54428,13223.608829936913,35000,90000
+by_race_x_sex,region,Northwest Hills COG,male,white,70133,2043.0076014992114,66988,75000
+by_race_x_sex,region,Northwest Hills COG,female,white,57185,1543.011391844677,53948,60000
+by_race_x_sex,region,Northwest Hills COG,male,black,50842,9396.247108357717,45000,82661
+by_race_x_sex,region,Northwest Hills COG,female,black,59343,7072.646990555546,55263,83736
+by_race_x_sex,region,Northwest Hills COG,male,latino,54158,5253.3826640430925,46000,66765
+by_race_x_sex,region,Northwest Hills COG,female,latino,45008,4192.054797357044,38684,55263
+by_race_x_sex,region,Northwest Hills COG,male,api,86900,19605.841895425416,53948,132632
+by_race_x_sex,region,Northwest Hills COG,female,api,55475,13694.394072988649,52988,108000
+by_race_x_sex,region,Northwest Hills COG,male,other_race,67000,17525.079191041077,50000,120000
+by_race_x_sex,region,Northwest Hills COG,female,other_race,58000,6714.763791987127,53948,80922
+by_race_x_sex,region,QVHD,male,white,79843,2452.795173581293,75158,84781
+by_race_x_sex,region,QVHD,female,white,62802,1609.656904681719,60000,66316
+by_race_x_sex,region,QVHD,male,black,53000,3426.515784285209,48963,62526
+by_race_x_sex,region,QVHD,female,black,56167,4305.005856049987,50000,67000
+by_race_x_sex,region,QVHD,male,latino,49405,4974.738917797237,43200,62802
+by_race_x_sex,region,QVHD,female,latino,41868,2927.56172419846,37764,49309
+by_race_x_sex,region,QVHD,male,api,79843,9019.066778928445,70129,105976
+by_race_x_sex,region,QVHD,female,api,54932,11387.724654323272,43105,88421
+by_race_x_sex,region,QVHD,male,other_race,70000,8422.106982221167,54428,88421
+by_race_x_sex,region,QVHD,female,other_race,56522,10875.966512530853,42390,86000
+by_race_x_sex,region,Sharon Hospital HSA,male,white,70000,2213.8816129221873,66316,75000
+by_race_x_sex,region,Sharon Hospital HSA,female,white,55816,1706.6631673978766,52988,59684
+by_race_x_sex,region,Sharon Hospital HSA,male,black,48632,10608.819697905665,39126,82661
+by_race_x_sex,region,Sharon Hospital HSA,female,black,59343,14395.220572269323,55263,115136
+by_race_x_sex,region,Sharon Hospital HSA,male,latino,57185,6447.447476800888,48553,74183
+by_race_x_sex,region,Sharon Hospital HSA,female,latino,47206,5549.355826092264,38684,60789
+by_race_x_sex,region,Sharon Hospital HSA,male,api,100000,35590.658884082186,53948,200000
+by_race_x_sex,region,Sharon Hospital HSA,female,api,55475,15563.26487996707,52988,117230
+by_race_x_sex,region,Sharon Hospital HSA,male,other_race,75527,19497.407438255017,47101,126112
+by_race_x_sex,region,Sharon Hospital HSA,female,other_race,58000,6636.504583067107,53948,80922
+by_race_x_sex,region,South Central DMHAS,male,white,78764,1100.825521997981,76606,80922
+by_race_x_sex,region,South Central DMHAS,female,white,65942,993.3994510596486,64105,68000
+by_race_x_sex,region,South Central DMHAS,male,black,52168,2289.8127275989864,46000,55000
+by_race_x_sex,region,South Central DMHAS,female,black,48853,2126.906758097307,43980,52335
+by_race_x_sex,region,South Central DMHAS,male,latino,48553,1499.3301279721259,47101,52988
+by_race_x_sex,region,South Central DMHAS,female,latino,42000,1585.8325712856215,40193,46421
+by_race_x_sex,region,South Central DMHAS,male,api,83736,6900.571724669688,75362,102501
+by_race_x_sex,region,South Central DMHAS,female,api,66316,5965.860566092514,56522,80000
+by_race_x_sex,region,South Central DMHAS,male,other_race,63586,3905.8702318334726,57568,73000
+by_race_x_sex,region,South Central DMHAS,female,other_race,56522,4932.631196259226,48553,68035
+by_race_x_sex,region,South Central Regional COG,male,white,77368,1182.7702725228444,75362,80000
+by_race_x_sex,region,South Central Regional COG,female,white,64738,1043.9744781904435,62802,66896
+by_race_x_sex,region,South Central Regional COG,male,black,52006,2542.039427635884,45000,55000
+by_race_x_sex,region,South Central Regional COG,female,black,47520,1995.2019812548115,43158,51000
+by_race_x_sex,region,South Central Regional COG,male,latino,47101,1852.9438915538635,44510,51790
+by_race_x_sex,region,South Central Regional COG,female,latino,41868,1528.7343752410704,39774,45782
+by_race_x_sex,region,South Central Regional COG,male,api,88421,7265.135695807482,77368,105976
+by_race_x_sex,region,South Central Regional COG,female,api,63848,6359.34951812283,54932,80000
+by_race_x_sex,region,South Central Regional COG,male,other_race,62802,4072.4104195987334,53826,70000
+by_race_x_sex,region,South Central Regional COG,female,other_race,58000,4588.117639209637,52988,71175
+by_race_x_sex,region,Southeastern Connecticut COG,male,white,75527,1334.4532930254502,73269,78502
+by_race_x_sex,region,Southeastern Connecticut COG,female,white,55108,1351.0708757994757,52988,58287
+by_race_x_sex,region,Southeastern Connecticut COG,male,black,50842,5573.520345627562,44211,66316
+by_race_x_sex,region,Southeastern Connecticut COG,female,black,44000,4834.560228523096,32369,51790
+by_race_x_sex,region,Southeastern Connecticut COG,male,latino,44211,1996.1872574733068,41868,49737
+by_race_x_sex,region,Southeastern Connecticut COG,female,latino,42390,2673.629622503327,38000,48553
+by_race_x_sex,region,Southeastern Connecticut COG,male,api,70129,9836.39203867607,45782,84781
+by_race_x_sex,region,Southeastern Connecticut COG,female,api,50621,8608.057522570554,40000,74183
+by_race_x_sex,region,Southeastern Connecticut COG,male,other_race,70000,6574.5357509109945,52988,79000
+by_race_x_sex,region,Southeastern Connecticut COG,female,other_race,55000,9222.972210934657,49632,86211
+by_race_x_sex,region,Southeastern DMHAS,male,white,73269,1001.5146640007657,71600,75527
+by_race_x_sex,region,Southeastern DMHAS,female,white,55263,1165.6341661208842,53716,58287
+by_race_x_sex,region,Southeastern DMHAS,male,black,47689,4001.342262549442,44171,60000
+by_race_x_sex,region,Southeastern DMHAS,female,black,44000,3957.5017643154943,36000,51790
+by_race_x_sex,region,Southeastern DMHAS,male,latino,43450,2022.055159719967,41001,48963
+by_race_x_sex,region,Southeastern DMHAS,female,latino,42390,2307.8848201639794,38000,47101
+by_race_x_sex,region,Southeastern DMHAS,male,api,76263,9144.321332491745,48661,84781
+by_race_x_sex,region,Southeastern DMHAS,female,api,52988,7832.119734235599,43158,74183
+by_race_x_sex,region,Southeastern DMHAS,male,other_race,71842,6055.920210127651,57000,80922
+by_race_x_sex,region,Southeastern DMHAS,female,other_race,55000,7068.914957768672,49632,77600
+by_race_x_sex,region,Southwestern DMHAS,male,white,115000,2510.685094383115,110526,120370
+by_race_x_sex,region,Southwestern DMHAS,female,white,83736,1530.1312686695744,80000,86000
+by_race_x_sex,region,Southwestern DMHAS,male,black,52988,3196.037191082661,47101,59662
+by_race_x_sex,region,Southwestern DMHAS,female,black,49385,2221.153461773605,44275,53000
+by_race_x_sex,region,Southwestern DMHAS,male,latino,47101,1769.9566089600928,45000,51947
+by_race_x_sex,region,Southwestern DMHAS,female,latino,40271,1372.9159682631346,38151,43542
+by_race_x_sex,region,Southwestern DMHAS,male,api,120000,6781.204891405547,105976,132632
+by_race_x_sex,region,Southwestern DMHAS,female,api,95000,6949.954937411577,83736,111079
+by_race_x_sex,region,Southwestern DMHAS,male,other_race,70000,8239.560031907766,60708,93259
+by_race_x_sex,region,Southwestern DMHAS,female,other_race,55263,7956.156591796947,44510,76000
+by_race_x_sex,region,St. Vincent's Medical Center HSA,male,white,94203,2385.986650136834,90080,99436
+by_race_x_sex,region,St. Vincent's Medical Center HSA,female,white,74000,1844.873756290336,70133,77368
+by_race_x_sex,region,St. Vincent's Medical Center HSA,male,black,47101,2476.10419986416,44211,53948
+by_race_x_sex,region,St. Vincent's Medical Center HSA,female,black,47858,2196.1586242421577,43158,51790
+by_race_x_sex,region,St. Vincent's Medical Center HSA,male,latino,46421,2531.99432461246,42390,52335
+by_race_x_sex,region,St. Vincent's Medical Center HSA,female,latino,37764,1776.9184920678583,34018,41001
+by_race_x_sex,region,St. Vincent's Medical Center HSA,male,api,97263,10074.15405664868,80684,120370
+by_race_x_sex,region,St. Vincent's Medical Center HSA,female,api,72947,7257.101070115301,63586,92199
+by_race_x_sex,region,St. Vincent's Medical Center HSA,male,other_race,62802,6455.273700643488,59343,85000
+by_race_x_sex,region,St. Vincent's Medical Center HSA,female,other_race,41868,6740.037371021906,36000,62802
+by_race_x_sex,region,Stamford Hospital HSA,male,white,120000,5595.238866781165,110526,132470
+by_race_x_sex,region,Stamford Hospital HSA,female,white,88421,2054.8789303517497,84781,92842
+by_race_x_sex,region,Stamford Hospital HSA,male,black,61755,4597.157772867784,51947,70133
+by_race_x_sex,region,Stamford Hospital HSA,female,black,49195,7660.204685961171,43961,74183
+by_race_x_sex,region,Stamford Hospital HSA,male,latino,45800,2940.2437253962917,42390,53948
+by_race_x_sex,region,Stamford Hospital HSA,female,latino,41868,3217.978640821713,38204,50869
+by_race_x_sex,region,Stamford Hospital HSA,male,api,127171,7871.4965358053605,109000,140000
+by_race_x_sex,region,Stamford Hospital HSA,female,api,110000,8861.68694452532,90632,125603
+by_race_x_sex,region,Stamford Hospital HSA,male,other_race,79482,10293.148703092278,65000,105976
+by_race_x_sex,region,Stamford Hospital HSA,female,other_race,79482,25862.15554496588,55263,158964
+by_race_x_sex,region,Tolland County,male,white,79482,2486.2920316792874,75243,85000
+by_race_x_sex,region,Tolland County,female,white,66316,1866.2938254766923,64738,72064
+by_race_x_sex,region,Tolland County,male,black,40821,13710.165048236895,33912,90080
+by_race_x_sex,region,Tolland County,female,black,38684,19186.09983042275,25121,105738
+by_race_x_sex,region,Tolland County,male,latino,55263,8147.841271102753,45000,77685
+by_race_x_sex,region,Tolland County,female,latino,47101,12811.784402069778,32111,84781
+by_race_x_sex,region,Tolland County,male,api,86317,8181.974890848933,67825,100677
+by_race_x_sex,region,Tolland County,female,api,75243,17163.042115000844,58615,130000
+by_race_x_sex,region,Tolland County,male,other_race,82895,14759.457796931609,40000,100677
+by_race_x_sex,region,Tolland County,female,other_race,50000,11029.761760536396,33158,78502
+by_race_x_sex,region,Western Connecticut COG,male,white,107896,1281.46373884873,105976,111000
+by_race_x_sex,region,Western Connecticut COG,female,white,80542,1624.1753544057185,77368,83736
+by_race_x_sex,region,Western Connecticut COG,male,black,60000,3826.4595772583057,51928,66988
+by_race_x_sex,region,Western Connecticut COG,female,black,51928,4539.866247231966,44669,62526
+by_race_x_sex,region,Western Connecticut COG,male,latino,49400,2134.41946086456,45570,53948
+by_race_x_sex,region,Western Connecticut COG,female,latino,41868,2624.154068546919,39211,49516
+by_race_x_sex,region,Western Connecticut COG,male,api,113291,4995.235530441083,105976,125603
+by_race_x_sex,region,Western Connecticut COG,female,api,90000,7742.147958157527,77455,107896
+by_race_x_sex,region,Western Connecticut COG,male,other_race,69000,10587.732566420562,55263,97000
+by_race_x_sex,region,Western Connecticut COG,female,other_race,61755,9617.37859094008,50000,88000
+by_race_x_sex,region,Western DMHAS,male,white,78502,1376.0074702675481,75527,80922
+by_race_x_sex,region,Western DMHAS,female,white,63659,857.4254814177635,62580,65942
+by_race_x_sex,region,Western DMHAS,male,black,47101,2512.2058367653576,43158,53053
+by_race_x_sex,region,Western DMHAS,female,black,50495,3900.819923091189,43980,59343
+by_race_x_sex,region,Western DMHAS,male,latino,50842,2076.997260309277,46000,54158
+by_race_x_sex,region,Western DMHAS,female,latino,39211,1609.0018354026865,37764,44086
+by_race_x_sex,region,Western DMHAS,male,api,99474,8214.286953499139,75527,107896
+by_race_x_sex,region,Western DMHAS,female,api,70000,4416.658689034207,62580,80000
+by_race_x_sex,region,Western DMHAS,male,other_race,64738,5893.878518357629,54711,78000
+by_race_x_sex,region,Western DMHAS,female,other_race,55263,9677.757127363506,37000,75362
+by_race_x_sex,region,Windham County,male,white,63586,1689.6870655060764,60789,67421
+by_race_x_sex,region,Windham County,female,white,52721,1708.9045442429037,48553,55263
+by_race_x_sex,region,Windham County,male,black,47689,NA,44171,NA
+by_race_x_sex,region,Windham County,female,black,33494,NA,NA,NA
+by_race_x_sex,region,Windham County,male,latino,38000,5208.809855862562,30000,50869
+by_race_x_sex,region,Windham County,female,latino,37472,3226.940128847376,32045,45008
+by_race_x_sex,region,Windham County,male,api,77368,NA,26167,NA
+by_race_x_sex,region,Windham County,female,api,51811,19367.893429219177,30211,113291
+by_race_x_sex,region,Windham County,male,other_race,79000,9856.647440862682,57000,97107
+by_race_x_sex,region,Windham County,female,other_race,54428,13223.608829936913,35000,90000
+by_race_x_sex,region,Windham Hospital HSA,male,white,71842,1329.5977704753745,69944,75158
+by_race_x_sex,region,Windham Hospital HSA,female,white,59343,1487.2598908118553,56167,62000
+by_race_x_sex,region,Windham Hospital HSA,male,black,44171,8721.9422784583,37092,71842
+by_race_x_sex,region,Windham Hospital HSA,female,black,33494,10494.959156668054,26494,68884
+by_race_x_sex,region,Windham Hospital HSA,male,latino,45217,3291.172401003542,40000,52988
+by_race_x_sex,region,Windham Hospital HSA,female,latino,39211,3119.189055128117,34760,47101
+by_race_x_sex,region,Windham Hospital HSA,male,api,80922,6587.8230803008355,67825,93947
+by_race_x_sex,region,Windham Hospital HSA,female,api,58615,10635.238618588664,51811,94203
+by_race_x_sex,region,Windham Hospital HSA,male,other_race,81000,8627.650477627261,60000,94203
+by_race_x_sex,region,Windham Hospital HSA,female,other_race,54428,9136.628047522237,37092,73369
+by_race_x_sex,puma,0900100,male,white,88969,2967.006086631539,83736,95378
+by_race_x_sex,puma,0900100,female,white,73269,2252.530010991973,68526,77368
+by_race_x_sex,puma,0900100,male,black,52335,10875.491174214616,42390,86317
+by_race_x_sex,puma,0900100,female,black,55263,10961.20493211983,43768,87922
+by_race_x_sex,puma,0900100,male,latino,49632,3650.810467191599,43158,57568
+by_race_x_sex,puma,0900100,female,latino,38000,3031.6266416313615,31401,43400
+by_race_x_sex,puma,0900100,male,api,104669,10430.204818410852,78502,120000
+by_race_x_sex,puma,0900100,female,api,65000,8765.056531049995,55000,90000
+by_race_x_sex,puma,0900100,male,other_race,54711,3789.030911784775,49737,65000
+by_race_x_sex,puma,0900100,female,other_race,36400,18379.779270778334,29132,105000
+by_race_x_sex,puma,0900101,male,white,158964,7559.412903784666,148367,178029
+by_race_x_sex,puma,0900101,female,white,95378,4138.607630852554,88421,104669
+by_race_x_sex,puma,0900101,male,black,120370,42337.363451046986,43158,221053
+by_race_x_sex,puma,0900101,female,black,51790,24829.81598614425,34153,140000
+by_race_x_sex,puma,0900101,male,latino,62802,9066.324045531514,58000,94203
+by_race_x_sex,puma,0900101,female,latino,75362,12040.614532125135,62802,111275
+by_race_x_sex,puma,0900101,male,api,145660,9184.856725396965,136070,172634
+by_race_x_sex,puma,0900101,female,api,143684,16704.33890357226,108316,175000
+by_race_x_sex,puma,0900101,male,other_race,76000,61868.62405619365,31398,287368
+by_race_x_sex,puma,0900101,female,other_race,60000,33109.7484780655,31401,170000
+by_race_x_sex,puma,0900102,male,white,115136,5633.712591007396,107896,130000
+by_race_x_sex,puma,0900102,female,white,88421,2358.935845912111,84000,93259
+by_race_x_sex,puma,0900102,male,black,62802,6369.680730078996,55263,80684
+by_race_x_sex,puma,0900102,female,black,45316,8393.93962453558,41000,74315
+by_race_x_sex,puma,0900102,male,latino,45570,3234.8277131881896,42080,54821
+by_race_x_sex,puma,0900102,female,latino,41868,3759.4281517576655,38151,52988
+by_race_x_sex,puma,0900102,male,api,128984,9792.030771484882,107896,146537
+by_race_x_sex,puma,0900102,female,api,110000,8827.460334816416,90632,125603
+by_race_x_sex,puma,0900102,male,other_race,77368,10959.043045086115,55263,99436
+by_race_x_sex,puma,0900102,female,other_race,83736,25388.630121324022,55263,158964
+by_race_x_sex,puma,0900103,male,white,149211,6599.081397648308,135947,161844
+by_race_x_sex,puma,0900103,female,white,85238,3748.8955495407395,79482,94203
+by_race_x_sex,puma,0900103,male,black,53948,8911.365940593341,35606,71211
+by_race_x_sex,puma,0900103,female,black,52988,7297.511545344155,41000,70000
+by_race_x_sex,puma,0900103,male,latino,51292,3546.935915383927,45000,59000
+by_race_x_sex,puma,0900103,female,latino,44874,3601.7379458776236,38728,52988
+by_race_x_sex,puma,0900103,male,api,113291,12462.496031382148,86317,135949
+by_race_x_sex,puma,0900103,female,api,84000,18873.25849738045,58615,134000
+by_race_x_sex,puma,0900103,male,other_race,115136,19092.19083732511,69000,146600
+by_race_x_sex,puma,0900103,female,other_race,68035,16486.778589276186,39789,108000
+by_race_x_sex,puma,0900104,male,white,59343,3828.0173089218874,49632,64738
+by_race_x_sex,puma,0900104,female,white,48553,5195.156061479658,44211,64738
+by_race_x_sex,puma,0900104,male,black,44510,2257.3369890676163,43105,52000
+by_race_x_sex,puma,0900104,female,black,46629,2419.0580840406146,42080,51602
+by_race_x_sex,puma,0900104,male,latino,41001,2658.1164639141407,34855,45316
+by_race_x_sex,puma,0900104,female,latino,32853,1757.4379350607892,30839,37764
+by_race_x_sex,puma,0900104,male,api,49737,16637.496004857996,46892,114947
+by_race_x_sex,puma,0900104,female,api,34900,8797.913006769468,30000,66316
+by_race_x_sex,puma,0900104,male,other_race,60708,8904.808561465354,33158,70000
+by_race_x_sex,puma,0900104,female,other_race,38000,6356.36901991418,32369,58264
+by_race_x_sex,puma,0900105,male,white,93156,2213.9344949434526,88421,97107
+by_race_x_sex,puma,0900105,female,white,73124,2189.6639988113498,69632,78225
+by_race_x_sex,puma,0900105,male,black,62802,9649.661343132087,46578,85000
+by_race_x_sex,puma,0900105,female,black,57474,6444.734453278636,43238,68884
+by_race_x_sex,puma,0900105,male,latino,70000,6168.641214660662,59343,83736
+by_race_x_sex,puma,0900105,female,latino,55000,4965.831109397355,47101,66765
+by_race_x_sex,puma,0900105,male,api,100677,20536.5625480552,83736,165789
+by_race_x_sex,puma,0900105,female,api,72947,14281.894285520293,62802,120000
+by_race_x_sex,puma,0900105,male,other_race,59343,21480.104761516286,45000,133000
+by_race_x_sex,puma,0900105,female,other_race,38843,16534.1689670763,26526,96000
+by_race_x_sex,puma,0900300,male,white,75527,1333.7012436652376,73269,78502
+by_race_x_sex,puma,0900300,female,white,62802,1757.1487667214174,60000,66896
+by_race_x_sex,puma,0900300,male,black,71175,6251.7534371730635,50711,75527
+by_race_x_sex,puma,0900300,female,black,55263,5300.761403540504,45700,66765
+by_race_x_sex,puma,0900300,male,latino,47101,7312.646740833547,37681,66765
+by_race_x_sex,puma,0900300,female,latino,46421,6975.652387276739,40000,67825
+by_race_x_sex,puma,0900300,male,api,100000,9965.239298131073,80922,120370
+by_race_x_sex,puma,0900300,female,api,66316,6586.614214171901,52335,78502
+by_race_x_sex,puma,0900300,male,other_race,73269,13448.83421913091,44885,99436
+by_race_x_sex,puma,0900300,female,other_race,40000,11403.120470951382,37092,83736
+by_race_x_sex,puma,0900301,male,white,65705,3014.113963550687,60000,71842
+by_race_x_sex,puma,0900301,female,white,62802,1915.0308859839183,57474,65000
+by_race_x_sex,puma,0900301,male,black,44211,4131.262907161359,40000,56368
+by_race_x_sex,puma,0900301,female,black,46421,3469.504688753058,40271,54000
+by_race_x_sex,puma,0900301,male,latino,44211,3121.8517084012074,40000,52335
+by_race_x_sex,puma,0900301,female,latino,40000,4117.930829647879,35000,51288
+by_race_x_sex,puma,0900301,male,api,80595,4919.262244026249,66765,86317
+by_race_x_sex,puma,0900301,female,api,94203,9484.27439295276,94000,132470
+by_race_x_sex,puma,0900301,male,other_race,63586,13474.616172158905,39000,94203
+by_race_x_sex,puma,0900301,female,other_race,52000,14420.706017032555,24600,84000
+by_race_x_sex,puma,0900302,male,white,68884,6257.035320236588,55108,79843
+by_race_x_sex,puma,0900302,female,white,64895,4750.314243603847,51928,70737
+by_race_x_sex,puma,0900302,male,black,42390,1994.0197424557748,41331,49195
+by_race_x_sex,puma,0900302,female,black,41000,2870.1845133300744,34263,45570
+by_race_x_sex,puma,0900302,male,latino,37579,2336.6222936315453,32657,41868
+by_race_x_sex,puma,0900302,female,latino,31793,1231.4761077286423,29673,34527
+by_race_x_sex,puma,0900302,male,api,91737,11158.619053823097,59662,104669
+by_race_x_sex,puma,0900302,female,api,44763,13982.884406026744,29842,88000
+by_race_x_sex,puma,0900302,male,other_race,36032,8653.735219031823,21725,58615
+by_race_x_sex,puma,0900302,female,other_race,62580,21167.372776430035,27632,116574
+by_race_x_sex,puma,0900303,male,white,104669,2333.514217264246,100000,109155
+by_race_x_sex,puma,0900303,female,white,80922,2158.90051956248,75527,84000
+by_race_x_sex,puma,0900303,male,black,62802,6133.779767300069,55475,79843
+by_race_x_sex,puma,0900303,female,black,56000,5353.607117869713,46629,67825
+by_race_x_sex,puma,0900303,male,latino,58579,6027.818677003725,51079,75000
+by_race_x_sex,puma,0900303,female,latino,46421,3927.0677647117545,41868,57474
+by_race_x_sex,puma,0900303,male,api,109903,8990.309263419598,93947,129475
+by_race_x_sex,puma,0900303,female,api,87000,8728.351712570839,70133,104669
+by_race_x_sex,puma,0900303,male,other_race,80922,17289.12314801653,50000,120000
+by_race_x_sex,puma,0900303,female,other_race,67421,11991.45710160059,55263,103857
+by_race_x_sex,puma,0900304,male,white,75158,2748.62440952044,70133,80922
+by_race_x_sex,puma,0900304,female,white,62802,2126.9024100123806,59684,68035
+by_race_x_sex,puma,0900304,male,black,52988,6457.4046899001305,50869,77368
+by_race_x_sex,puma,0900304,female,black,44777,8787.253568166707,37911,74183
+by_race_x_sex,puma,0900304,male,latino,49737,4693.469520256406,38684,57474
+by_race_x_sex,puma,0900304,female,latino,43105,5184.977899719007,39679,60422
+by_race_x_sex,puma,0900304,male,api,56167,20803.590253065162,36000,121873
+by_race_x_sex,puma,0900304,female,api,62802,18266.955940060277,33912,109155
+by_race_x_sex,puma,0900304,male,other_race,60708,17621.09477834516,47689,120000
+by_race_x_sex,puma,0900304,female,other_race,38787,23080.30237097647,37681,136070
+by_race_x_sex,puma,0900305,male,white,64738,3366.2889335811683,58615,71842
+by_race_x_sex,puma,0900305,female,white,57000,2426.469016891442,52988,62526
+by_race_x_sex,puma,0900305,male,black,47400,2883.6680937414963,42390,53948
+by_race_x_sex,puma,0900305,female,black,35700,7329.526133037338,28000,57474
+by_race_x_sex,puma,0900305,male,latino,41868,3021.2691338908144,38843,50765
+by_race_x_sex,puma,0900305,female,latino,35479,1012.0262577286304,34000,38000
+by_race_x_sex,puma,0900305,male,api,67975,10391.16489877967,50000,92109
+by_race_x_sex,puma,0900305,female,api,40000,6665.3066737446525,37092,64738
+by_race_x_sex,puma,0900305,male,other_race,53948,82591.52063903995,45008,418678
+by_race_x_sex,puma,0900305,female,other_race,56167,15580.962043988377,40000,107896
+by_race_x_sex,puma,0900306,male,white,89554,2344.6585636887926,85000,94203
+by_race_x_sex,puma,0900306,female,white,78502,2432.844786647695,74183,83736
+by_race_x_sex,puma,0900306,male,black,79482,24200.887163544725,59343,160000
+by_race_x_sex,puma,0900306,female,black,69632,8098.488563608331,52335,85841
+by_race_x_sex,puma,0900306,male,latino,66316,7723.880718534786,52988,83736
+by_race_x_sex,puma,0900306,female,latino,52335,5972.123998542568,45000,68884
+by_race_x_sex,puma,0900306,male,api,109421,6034.612840062237,95378,119323
+by_race_x_sex,puma,0900306,female,api,75243,11765.396558973776,53381,100483
+by_race_x_sex,puma,0900306,male,other_race,87000,13179.446911678053,52335,107000
+by_race_x_sex,puma,0900306,female,other_race,94949,15361.035673575816,90633,157004
+by_race_x_sex,puma,0900500,male,white,70000,2213.8816129221873,66316,75000
+by_race_x_sex,puma,0900500,female,white,55816,1706.6631673978766,52988,59684
+by_race_x_sex,puma,0900500,male,black,48632,10608.819697905665,39126,82661
+by_race_x_sex,puma,0900500,female,black,59343,14395.220572269323,55263,115136
+by_race_x_sex,puma,0900500,male,latino,57185,6447.447476800888,48553,74183
+by_race_x_sex,puma,0900500,female,latino,47206,5549.355826092264,38684,60789
+by_race_x_sex,puma,0900500,male,api,100000,35590.658884082186,53948,200000
+by_race_x_sex,puma,0900500,female,api,55475,15563.26487996707,52988,117230
+by_race_x_sex,puma,0900500,male,other_race,75527,19497.407438255017,47101,126112
+by_race_x_sex,puma,0900500,female,other_race,58000,6636.504583067107,53948,80922
+by_race_x_sex,puma,0900700,male,white,78422,1669.9551629554176,74448,81000
+by_race_x_sex,puma,0900700,female,white,69054,2406.5223484976577,64738,74183
+by_race_x_sex,puma,0900700,male,black,44211,12679.50312902837,34527,86317
+by_race_x_sex,puma,0900700,female,black,46395,8514.891317489017,30200,64738
+by_race_x_sex,puma,0900700,male,latino,53948,5828.132126975287,43000,66316
+by_race_x_sex,puma,0900700,female,latino,50000,7963.893887543568,39922,71842
+by_race_x_sex,puma,0900700,male,api,73164,16102.639150929008,50000,115449
+by_race_x_sex,puma,0900700,female,api,68035,13733.144528176816,38000,93947
+by_race_x_sex,puma,0900700,male,other_race,60000,15486.291623036992,41500,104669
+by_race_x_sex,puma,0900700,female,other_race,44510,8190.253281268837,36634,70000
+by_race_x_sex,puma,0900900,male,white,82895,2133.477537367289,78502,86876
+by_race_x_sex,puma,0900900,female,white,69054,1603.1281055763827,65705,72000
+by_race_x_sex,puma,0900900,male,black,61895,15659.638005662746,41868,107000
+by_race_x_sex,puma,0900900,female,black,49737,25105.862866015315,21579,126000
+by_race_x_sex,puma,0900900,male,latino,63586,11398.17986248748,43158,88969
+by_race_x_sex,puma,0900900,female,latino,57568,7440.187703546994,43450,73369
+by_race_x_sex,puma,0900900,male,api,103580,15243.982630023536,75158,137117
+by_race_x_sex,puma,0900900,female,api,75000,16126.750422862744,72222,137769
+by_race_x_sex,puma,0900900,male,other_race,70000,14542.238820834242,44885,104669
+by_race_x_sex,puma,0900900,female,other_race,33158,40940.00333480736,32448,209339
+by_race_x_sex,puma,0900901,male,white,63586,3806.6921434497353,58287,73269
+by_race_x_sex,puma,0900901,female,white,53274,3047.0855092654133,48000,60000
+by_race_x_sex,puma,0900901,male,black,43158,2663.726219709822,40271,50869
+by_race_x_sex,puma,0900901,female,black,41779,5559.791649699648,33158,55263
+by_race_x_sex,puma,0900901,male,latino,44086,2770.1225936347205,39922,50869
+by_race_x_sex,puma,0900901,female,latino,38000,2580.4186725134095,35368,45570
+by_race_x_sex,puma,0900901,male,api,68526,17399.873448201408,38684,111275
+by_race_x_sex,puma,0900901,female,api,49000,10151.629226168166,37764,82001
+by_race_x_sex,puma,0900901,male,other_race,81789,NA,58287,NA
+by_race_x_sex,puma,0900901,female,other_race,62000,9670.243292250207,37000,78000
+by_race_x_sex,puma,0900902,male,white,74000,2161.0632742190787,68884,77368
+by_race_x_sex,puma,0900902,female,white,60789,2092.2856872824505,56522,64738
+by_race_x_sex,puma,0900902,male,black,48963,4483.939733107221,41889,60000
+by_race_x_sex,puma,0900902,female,black,48853,2400.725958698148,43344,52988
+by_race_x_sex,puma,0900902,male,latino,48553,2954.4337385579315,46611,58287
+by_race_x_sex,puma,0900902,female,latino,40193,2653.3996991759777,35498,46000
+by_race_x_sex,puma,0900902,male,api,97107,20594.212646822576,37092,120000
+by_race_x_sex,puma,0900902,female,api,42390,8498.169313981878,37764,72064
+by_race_x_sex,puma,0900902,male,other_race,59347,5003.681353790657,52246,73000
+by_race_x_sex,puma,0900902,female,other_race,52988,9585.60827667294,48553,87960
+by_race_x_sex,puma,0900903,male,white,83736,3487.2978274828847,76303,90000
+by_race_x_sex,puma,0900903,female,white,63586,2060.3641832515,60789,68884
+by_race_x_sex,puma,0900903,male,black,55000,5849.540104312909,50000,73269
+by_race_x_sex,puma,0900903,female,black,58287,4553.778431757408,50842,68884
+by_race_x_sex,puma,0900903,male,latino,49737,7698.091915283341,41447,72064
+by_race_x_sex,puma,0900903,female,latino,42000,4496.7573485139255,36032,53948
+by_race_x_sex,puma,0900903,male,api,77368,12021.791266108297,70129,118686
+by_race_x_sex,puma,0900903,female,api,55000,15205.536821206995,43105,104669
+by_race_x_sex,puma,0900903,male,other_race,79482,16185.432713326732,53826,121579
+by_race_x_sex,puma,0900903,female,other_race,56522,15795.89529431361,42390,107211
+by_race_x_sex,puma,0900904,male,white,80000,2491.674959176927,75000,84781
+by_race_x_sex,puma,0900904,female,white,70133,2211.483290734434,66316,75000
+by_race_x_sex,puma,0900904,male,black,69054,10587.104914011241,52869,95378
+by_race_x_sex,puma,0900904,female,black,44300,6996.517909689263,35000,63000
+by_race_x_sex,puma,0900904,male,latino,47689,5272.381165665037,41868,62802
+by_race_x_sex,puma,0900904,female,latino,46421,6741.351563488405,33158,60000
+by_race_x_sex,puma,0900904,male,api,97263,11825.642363350624,80000,127171
+by_race_x_sex,puma,0900904,female,api,68884,13489.416070884885,56522,110526
+by_race_x_sex,puma,0900904,male,other_race,51186,31387.762740355625,31832,170000
+by_race_x_sex,puma,0900904,female,other_race,55263,15847.526716137421,34527,103000
+by_race_x_sex,puma,0900905,male,white,70000,3867.0100336980927,60789,76000
+by_race_x_sex,puma,0900905,female,white,62526,3297.251703891447,55000,67975
+by_race_x_sex,puma,0900905,male,black,42390,3289.338344182481,37764,50765
+by_race_x_sex,puma,0900905,female,black,44510,2621.333642082465,42000,52335
+by_race_x_sex,puma,0900905,male,latino,40000,3308.105843736805,35921,49000
+by_race_x_sex,puma,0900905,female,latino,40271,2473.88320882263,36000,45782
+by_race_x_sex,puma,0900905,male,api,70000,7736.092104027216,55000,85829
+by_race_x_sex,puma,0900905,female,api,68884,9870.60630996754,55263,95000
+by_race_x_sex,puma,0900905,male,other_race,41972,6449.997538999333,35000,62000
+by_race_x_sex,puma,0900905,female,other_race,71175,10406.023641408388,43158,86211
+by_race_x_sex,puma,0900906,male,white,82000,1997.8703053733084,78474,86317
+by_race_x_sex,puma,0900906,female,white,67975,2533.1019634126746,61895,71842
+by_race_x_sex,puma,0900906,male,black,58287,13094.68871566925,38684,94203
+by_race_x_sex,puma,0900906,female,black,42914,NA,42914,NA
+by_race_x_sex,puma,0900906,male,latino,52335,7267.541086652569,46421,75527
+by_race_x_sex,puma,0900906,female,latino,57568,4395.199052589013,49737,67421
+by_race_x_sex,puma,0900906,male,api,132632,42722.46077921879,77368,251207
+by_race_x_sex,puma,0900906,female,api,104669,16443.87471566767,49737,117000
+by_race_x_sex,puma,0900906,male,other_race,71175,11035.154830085987,52000,98368
+by_race_x_sex,puma,0900906,female,other_race,78000,30661.747024207973,62000,192000
+by_race_x_sex,puma,0901100,male,white,76303,1715.0898246749045,73269,80000
+by_race_x_sex,puma,0901100,female,white,52988,1748.6427310372173,51398,58264
+by_race_x_sex,puma,0901100,male,black,47689,7073.25071679265,39211,67825
+by_race_x_sex,puma,0901100,female,black,40271,15799.762381981875,31401,98389
+by_race_x_sex,puma,0901100,male,latino,45000,2787.7539819053854,41868,52988
+by_race_x_sex,puma,0901100,female,latino,42390,3564.758457297518,37700,52000
+by_race_x_sex,puma,0901100,male,api,44211,1530.879197934669,42390,48553
+by_race_x_sex,puma,0901100,female,api,38684,5570.501167371137,27214,49809
+by_race_x_sex,puma,0901100,male,other_race,63848,16662.934295562383,46000,113043
+by_race_x_sex,puma,0901100,female,other_race,55263,9530.5489317471,49632,88000
+by_race_x_sex,puma,0901101,male,white,77368,2467.5827155487236,74053,83736
+by_race_x_sex,puma,0901101,female,white,60000,2692.693268572824,54428,65000
+by_race_x_sex,puma,0901101,male,black,53948,9462.085806318253,45000,82895
+by_race_x_sex,puma,0901101,female,black,45008,8772.654395879268,44000,80000
+by_race_x_sex,puma,0901101,male,latino,43961,4620.614316261358,39922,58287
+by_race_x_sex,puma,0901101,female,latino,44211,3695.4409632814013,35000,49737
+by_race_x_sex,puma,0901101,male,api,105000,10699.939793012027,82661,125603
+by_race_x_sex,puma,0901101,female,api,84663,8118.105415216624,59343,92109
+by_race_x_sex,puma,0901101,male,other_race,71842,7487.154360786126,52988,83080
+by_race_x_sex,puma,0901101,female,other_race,55000,20513.933973890915,30000,113291
+by_race_x_sex,puma,0901300,male,white,79482,2486.2920316792874,75243,85000
+by_race_x_sex,puma,0901300,female,white,66316,1866.2938254766923,64738,72064
+by_race_x_sex,puma,0901300,male,black,40821,13710.165048236895,33912,90080
+by_race_x_sex,puma,0901300,female,black,38684,19186.09983042275,25121,105738
+by_race_x_sex,puma,0901300,male,latino,55263,8147.841271102753,45000,77685
+by_race_x_sex,puma,0901300,female,latino,47101,12811.784402069778,32111,84781
+by_race_x_sex,puma,0901300,male,api,86317,8181.974890848933,67825,100677
+by_race_x_sex,puma,0901300,female,api,75243,17163.042115000844,58615,130000
+by_race_x_sex,puma,0901300,male,other_race,82895,14759.457796931609,40000,100677
+by_race_x_sex,puma,0901300,female,other_race,50000,11029.761760536396,33158,78502
+by_race_x_sex,puma,0901500,male,white,63586,1689.6870655060764,60789,67421
+by_race_x_sex,puma,0901500,female,white,52721,1708.9045442429037,48553,55263
+by_race_x_sex,puma,0901500,male,black,47689,NA,44171,NA
+by_race_x_sex,puma,0901500,female,black,33494,NA,NA,NA
+by_race_x_sex,puma,0901500,male,latino,38000,5208.809855862562,30000,50869
+by_race_x_sex,puma,0901500,female,latino,37472,3226.940128847376,32045,45008
+by_race_x_sex,puma,0901500,male,api,77368,NA,26167,NA
+by_race_x_sex,puma,0901500,female,api,51811,19367.893429219177,30211,113291
+by_race_x_sex,puma,0901500,male,other_race,79000,9856.647440862682,57000,97107
+by_race_x_sex,puma,0901500,female,other_race,54428,13223.608829936913,35000,90000
