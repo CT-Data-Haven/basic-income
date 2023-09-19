@@ -39,6 +39,17 @@ Help you ask questions, answer questions & better understand _what you already k
 
 :::
 
+## Disparity
+
+An imperfect working definition:
+
+:::{.incremental}
+
+* A problem or issue
+* Some communities deal with it more often or more strongly
+* For whatever reason
+
+:::
 
 ## Demographics
 
@@ -102,7 +113,7 @@ You know what your neighborhood is like, but data helps to put it into context
 
 ## Homeownership
 
-Households led by younger white adults are more likely to own their homes than older Latinos
+Households led by **younger white adults** are more likely to own their homes than **older Latinos**
 
 :::{.incremental}
 
@@ -115,7 +126,7 @@ Households led by younger white adults are more likely to own their homes than o
 
 ## Wage gaps
 
-Usually we talk about the "wage gap" as women's pay vs men's pay
+Usually we talk about the "wage gap" as **women's pay vs men's pay**
 
 ![](./plots/wages_by_sex.png){.absolute bottom=0}
 
@@ -136,21 +147,21 @@ Just looking at women vs men completely misses **other wage gaps**
 
 ## Wage gaps
 
-* White women on average make more money than Black or Latino men
+* White & Asian women on average make **more money than Black or Latino men** working full-time
 
 ![](./plots/wages_by_sex_x_race.png){.absolute bottom=0}
 
 
 ## Wage gaps
 
-* Black women make about 64 cents to the average man's dollar
+* Black women make about **64 cents** to the average man's dollar
 
 ![](./plots/wages_by_sex_x_race.png){.absolute bottom=0}
 
 
 ## Wage gaps
 
-* Latina women make about 54 cents to the average man's dollar
+* Latina women make about **54 cents** to the average man's dollar
 
 ![](./plots/wages_by_sex_x_race.png){.absolute bottom=0}
 
