@@ -1,3 +1,7 @@
 project:
   title: "Income Equity"
   output-dir: docs
+
+format:
+  revealjs: 
+    theme: [custom.scss]

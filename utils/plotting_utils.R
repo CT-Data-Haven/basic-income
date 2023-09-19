@@ -4,6 +4,7 @@ library(ggrepel)
 library(sf)
 # suppress values below nmin in tables
 nmin <- 50
+font_add_weights("Roboto Slab", regular = 400, semibold = 500, bold = 600, black = 800)
 ########## feel free to change all the theme stuff & colors
 # fonts here match the fonts used in the draft rmd, but that can change as well
 ############################ COLORS ----
@@ -30,19 +31,19 @@ line_pal <- list(l = 0.6, m = 0.4, s = 0.2)
 seq_pal <- seq_pal_gen(unname(c(pal_mtx$shade02[["indigo"]], pal_mtx$shade03[["lime"]])), n = 4)
 
 ############################ GGPLOT ----
-font_add_weights("Roboto Slab", regular = 300, semibold = 500)
 
 def_margin <- margin(4, 4, 4, 4, "pt")
 
-theme_src <- function(base_family = "Roboto Slab", base_size = 15, ...) {
+theme_src <- function(base_family = "Roboto Slab", base_size = 18, ...) {
   camiller::theme_din(base_family = base_family, base_size = base_size, ...) +
     theme(axis.text = element_text(color = "black"),
-          strip.text = element_text(color = "black", size = 10, family = "Roboto Slab Semibold", vjust = 0),
+          strip.text = element_text(color = "black", size = rel(1.05), family = "Roboto Slab Semibold", vjust = 0),
           strip.text.x = element_text(hjust = 0.5, margin = margin(4, 0, 4, 0, "pt")),
           strip.text.y = element_text(vjust = 0, margin = margin(0, 4, 0, 4, "pt")),
           strip.background.x = element_blank(),
           panel.spacing.x = unit(0.2, "in"),
-          plot.subtitle = element_text(size = 10, face = "plain", color = "black", family = "Roboto Slab Semibold"),
+          plot.title = element_text(size = rel(1.2), face = "bold", family = "Roboto Slab"),
+          plot.subtitle = element_text(size = rel(1.05), face = "plain", color = "black", family = "Roboto Slab Semibold"),
           legend.text = element_text(margin = margin(0, 1, 0, -0.25, "lines"), size = rel(0.8)),
           legend.title = element_text(size = rel(0.8), face = "plain", family = "Roboto Slab Semibold")
     )

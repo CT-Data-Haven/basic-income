@@ -12,7 +12,7 @@ $font-weight-base: 300 !default;
 // $body-color: #222 !default;
 $body-bg: #fdfdfa !default;
 $body-color: #1b1b1b !default;
-$presentation-heading-color: #111 !default;
+$presentation-heading-color: #2a1780 !default;
 // $presentation-heading-color: #2525b4 !default;
 $selection-bg: lighten($presentation-heading-color, 10%) !default;
 $selection-color: $body-bg !default;
@@ -24,9 +24,9 @@ $presentation-title-slide-text-align: left !default;
 
 /*-- scss:rules --*/
 .reveal .footer > p {
-  text-align: right;
-  margin-right: 2rem;
-  font-size: 1.5rem;
+  // text-align: left;
+  // margin-left: 2rem;
+  // font-size: 1.5rem;
 }
 
 .reveal h1, .reveal h2 {

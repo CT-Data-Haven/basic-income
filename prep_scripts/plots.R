@@ -70,7 +70,7 @@ tenure <- readr::read_csv(file.path("data", "tenure_by_race_x_age_2021.csv")) |>
   scale_fill_manual(values = race_pal, guide = guide_none()) +
   scale_y_barcontinuous(breaks = NULL) +
   labs(x = NULL, y = NULL,
-       title = "Homeownership rate by race/ethnicity of head of household",
+       title = "Homeownership rate by race/ethnicity\nof head of household",
        subtitle = "Share of households, 2021"))
 
 (plots[["tenure_by_race_x_age"]] <- tenure[["by_age"]] |>
@@ -181,10 +181,12 @@ edu <- readr::read_csv(file.path("data", "adult_ed_2021.csv")) |>
   # coord_flip() +
   scale_y_barcontinuous(breaks = NULL) +
   scale_x_discrete(labels = label_wrap_gen(12)) +
-  scale_fill_manual(values = seq_pal) +
-  facet_grid(cols = vars(name), scales = "free_x", space = "free") +
-  theme(legend.position = "bottom",
-        legend.justification = c(0, 0),
+  scale_fill_manual(values = seq_pal, 
+                    guide = guide_legend(reverse = TRUE)) +
+  facet_grid(cols = vars(name), scales = "free_x", space = "free",
+             labeller = labeller(.cols = label_wrap_gen(7))) +
+  theme(legend.position = "right",
+        # legend.justification = c(0, 0),
         strip.clip = "off") +
   labs(x = NULL, y = NULL, fill = NULL,
        title = "Highest level of education",
@@ -192,12 +194,23 @@ edu <- readr::read_csv(file.path("data", "adult_ed_2021.csv")) |>
 
 
 
-imap(plots[1], function(p, id) {
-  fn <- file.path("plots", id) |> xfun::with_ext("png")
-  ggsave(fn, p, width = 9, height = 9, bg = "white")
-})
+# imap(plots[1], function(p, id) {
+#   fn <- file.path("plots", id)
+#   ggsave(fn, p, width = 8, height = 7, bg = "white")
+# })
 
-imap(plots[-1], function(p, id) {
-  fn <- file.path("plots", id) |> xfun::with_ext("png")
-  ggsave(fn, p, width = 8, height = 6, bg = "white")
+params <- list(
+  dot_density = list(w = 8, h = 7.5),
+  tenure_by_race = list(w = 8, h = 8),
+  tenure_by_race_x_age = list(w = 13, h = 5),
+  wages_by_sex = list(w = 13, h = 6),
+  wages_by_sex_x_race = list(w = 13, h = 6),
+  edu_by_race = list(w = 13, h = 6)
+)
+
+imap(plots, function(p, id) {
+  ps <- params[[id]]
+  fn <- file.path("plots", id)
+  ggsave(xfun::with_ext(fn, "png"), p, width = ps$w, height = ps$h, dpi = 300, bg = "white")
+  ggsave(xfun::with_ext(fn, "svg"), p, width = ps$w, height = ps$h)
 })

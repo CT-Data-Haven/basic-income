@@ -4,33 +4,51 @@ subtitle: "Bridgeport, Hartford, New Haven"
 author: "Camille Seaberry, DataHaven"
 format: 
   revealjs:
-    theme: [custom.scss]
     incremental: false
     email-obfuscation: javascript
-footer: DataHaven
+    margin: 0.05
+# footer: DataHaven
+footer: Follow along - https://bit.ly/gbi0923
 ---
 
 ## Working with data {.smaller}
 
 | Pros                                                       | Cons                                                   |
 | ---------------------------------------------------------- | ------------------------------------------------------ |
-| Speaking the language of funders, politicians, etc         | Do funders & community use same language?              |
-| Assumed based on facts                                     | Facts depend on context & can be skewed                |
-| Can give background to lived experience & shared knowledge | Often treated as more important than lived experiences |
-| Valuable skills once you get them                          | High barrier                                           |
-| "Now what I've seen makes sense!"                              | "Tell me something I don't know!"                      |
+| Speaking the **language** of funders, politicians, etc         | Does the community speak that language?              |
+| Assumed based on **facts**                                     | Facts depend on context & can be skewed                |
+| Can give **background** to lived experience & shared knowledge | Often treated as more important than lived experiences |
+| Valuable **skills**... once you get them                          | High bar to learn                                      |
+| "Now **what I've seen** makes sense!"                          | "Tell me something I don't know!"                      |
+
+. . .
+
+### Goal
+
+Help you ask questions, answer questions & better understand _what you already know_
 
 
 ## What data can help answer
+
+:::{.incremental}
 
 * Who lives here?
 * Where are the resources?
 * What's the history of those resources?
 * Who / what _isn't_ measured? Why?
 
+:::
+
+
 ## Demographics
 
 ::::{.columns}
+
+:::{.column width=40%}
+
+You know what your neighborhood is like, but data helps to put it into context
+
+:::
 
 :::{.column width=60%}
 
@@ -38,15 +56,8 @@ footer: DataHaven
 
 :::
 
-:::{.column width=40%}
-
-* You know what your neighborhood is like, but data helps to put it into context
-* How did we get here? One answer is **redlining.**
-  - Explore the project [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/#loc=12/41.767/-72.761&city=hartford-ct){preview-link="true"}
-
-:::
-
 ::::
+
 
 ## Homeownership
 
@@ -73,80 +84,96 @@ footer: DataHaven
 
 :::{.column width=40%}
 
-* Benefits of homeownership: assets, stability, wealth to pass down
-* Households led by younger white adults are more likely to own their homes than older Latinos
-  - Head start on building wealth & stable futures
+* Benefits of owning your home:
+  - Assets
+  - Stability
+  - Wealth to pass down
+  - Control over environment (disability, aging)
 
 :::
 
 :::{.column width=60%}
+
+![](./plots/tenure_by_race.png)
+
+:::
+
+::::
+
+## Homeownership
+
+Households led by younger white adults are more likely to own their homes than older Latinos
+
+:::{.incremental}
+
+- Head start on building wealth & stable futures
+
+:::
 
 ![](./plots/tenure_by_race_x_age.png)
 
-:::
-
-::::
 
 ## Wage gaps
 
-::::{.columns}
+Usually we talk about the "wage gap" as women's pay vs men's pay
 
-:::{.column width=40%}
+![](./plots/wages_by_sex.png){.absolute bottom=0}
 
-* Usually we talk about the "wage gap" as women's pay vs men's pay
-* Statewide women working full time make about 81 cents to the average man's dollar
-
-:::
-
-:::{.column width=60%}
-
-![](./plots/wages_by_sex.png)
-
-:::
-
-::::
 
 ## Wage gaps
 
-::::{.columns}
+* Statewide, women working full-time make about **81 cents** to the average man's dollar
 
-:::{.column width=40%}
+![](./plots/wages_by_sex.png){.absolute bottom=0}
 
-Just looking at women vs men _completely misses other wage gaps_
+
+## Wage gaps
+
+Just looking at women vs men completely misses **other wage gaps**
+
+![](./plots/wages_by_sex_x_race.png){.absolute bottom=0}
+
+
+## Wage gaps
 
 * White women on average make more money than Black or Latino men
+
+![](./plots/wages_by_sex_x_race.png){.absolute bottom=0}
+
+
+## Wage gaps
+
 * Black women make about 64 cents to the average man's dollar
+
+![](./plots/wages_by_sex_x_race.png){.absolute bottom=0}
+
+
+## Wage gaps
+
 * Latina women make about 54 cents to the average man's dollar
 
-:::
+![](./plots/wages_by_sex_x_race.png){.absolute bottom=0}
 
-:::{.column width=60%}
-
-![](./plots/wages_by_sex_x_race.png)
-
-:::
-
-::::
 
 ## Education
 
-::::{.columns}
-
-:::{.column width=40%}
-
 * Two- or four-year degree can open up job opportunities
+
+![](./plots/edu_by_race.png){.absolute bottom=0}
+
+## Education
+
 * About a quarter of Latino adults have no high school diploma
+
+![](./plots/edu_by_race.png){.absolute bottom=0}
+
+## Education
+
 * Opportunity to support GED, vocational programs
 
-:::
+![](./plots/edu_by_race.png){.absolute bottom=0}
 
-:::{.column width=60%}
 
-![](./plots/edu_by_race.png)
-
-:::
-
-::::
 
 ## Resources
 
@@ -161,7 +188,7 @@ Just looking at women vs men _completely misses other wage gaps_
 
 ### Contact
 
-* camille@ctdatahaven.org (Camille)
-* info@ctdatahaven.org (Mark Abraham, Executive Director)
+* [camille@ctdatahaven.org](mailto:camille@ctdatahaven.org) (Camille)
+* [info@ctdatahaven.org](mailto:info@ctdatahaven.org) (Mark Abraham, Executive Director)
 
 :::
